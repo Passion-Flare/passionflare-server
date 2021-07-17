@@ -1,0 +1,5282 @@
+{
+  "Belgium luxembourg": {
+    "province": "Luxembourg",
+    "coordinates": {
+      "latitude": "50.0547",
+      "longitude": "5.4677"
+    }
+  },
+  "India unknown": {
+    "province": "Unknown",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Kuwait null": {
+    "coordinates": {
+      "latitude": "29.31166",
+      "longitude": "47.481766"
+    }
+  },
+  "Macedonia null": {
+    "coordinates": {
+      "latitude": "41.6086",
+      "longitude": "21.7453"
+    }
+  },
+  "US tennessee": {
+    "province": "Tennessee",
+    "coordinates": {
+      "latitude": "36.12684348",
+      "longitude": "-84.19965764"
+    }
+  },
+  "Marshall Islands null": {
+    "coordinates": {
+      "latitude": "7.1315",
+      "longitude": "171.1845"
+    }
+  },
+  "US arizona": {
+    "province": "Arizona",
+    "coordinates": {
+      "latitude": "35.39465006",
+      "longitude": "-109.4892383"
+    }
+  },
+  "Belgium null": {
+    "coordinates": {
+      "latitude": "50.331",
+      "longitude": "4.8221"
+    }
+  },
+  "Mexico tamaulipas": {
+    "province": "Tamaulipas",
+    "coordinates": {
+      "latitude": "24.2669",
+      "longitude": "-98.8363"
+    }
+  },
+  "Belize null": {
+    "coordinates": {
+      "latitude": "17.1899",
+      "longitude": "-88.4976"
+    }
+  },
+  "Russia perm krai": {
+    "province": "Perm Krai",
+    "coordinates": {
+      "latitude": "58.5951603",
+      "longitude": "56.3159546"
+    }
+  },
+  "Netherlands aruba": {
+    "province": "Aruba",
+    "coordinates": {
+      "latitude": "12.5211",
+      "longitude": "-69.9683"
+    }
+  },
+  "Colombia cauca": {
+    "province": "Cauca",
+    "coordinates": {
+      "latitude": "2.705",
+      "longitude": "-76.82600000000002"
+    }
+  },
+  "Russia tambov oblast": {
+    "province": "Tambov Oblast",
+    "coordinates": {
+      "latitude": "52.9019574",
+      "longitude": "41.3578918"
+    }
+  },
+  "Russia arkhangelsk oblast": {
+    "province": "Arkhangelsk Oblast",
+    "coordinates": {
+      "latitude": "63.5589686",
+      "longitude": "43.1221646"
+    }
+  },
+  "Brazil sergipe": {
+    "province": "Sergipe",
+    "coordinates": {
+      "latitude": "-10.5741",
+      "longitude": "-37.3857"
+    }
+  },
+  "Russia penza oblast": {
+    "province": "Penza Oblast",
+    "coordinates": {
+      "latitude": "53.1655415",
+      "longitude": "44.78791810000001"
+    }
+  },
+  "Brazil alagoas": {
+    "province": "Alagoas",
+    "coordinates": {
+      "latitude": "-9.5713",
+      "longitude": "-36.782"
+    }
+  },
+  "Netherlands drenthe": {
+    "province": "Drenthe",
+    "coordinates": {
+      "latitude": "52.862485",
+      "longitude": "6.618435000000002"
+    }
+  },
+  "Benin null": {
+    "coordinates": {
+      "latitude": "9.3077",
+      "longitude": "2.3158"
+    }
+  },
+  "Spain cantabria": {
+    "province": "Cantabria",
+    "coordinates": {
+      "latitude": "43.1828",
+      "longitude": "-3.9878"
+    }
+  },
+  "Brazil roraima": {
+    "province": "Roraima",
+    "coordinates": {
+      "latitude": "-2.7376",
+      "longitude": "-62.0751"
+    }
+  },
+  "UK unknown": {
+    "province": "Unknown",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "UK anguilla": {
+    "province": "anguilla",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Germany mecklenburg-vorpommern": {
+    "province": "Mecklenburg-Vorpommern",
+    "coordinates": {
+      "latitude": "53.6127",
+      "longitude": "12.4296"
+    }
+  },
+  "Russia nenets autonomous okrug": {
+    "province": "Nenets Autonomous Okrug",
+    "coordinates": {
+      "latitude": "68.27557185",
+      "longitude": "57.1686375"
+    }
+  },
+  "Japan niigata": {
+    "province": "Niigata",
+    "coordinates": {
+      "latitude": "37.521819",
+      "longitude": "138.918647"
+    }
+  },
+  "UK montserrat": {
+    "province": "Montserrat",
+    "coordinates": {
+      "latitude": "16.742498",
+      "longitude": "-62.187366"
+    }
+  },
+  "Denmark null": {
+    "coordinates": {
+      "latitude": "56.2639",
+      "longitude": "9.5018"
+    }
+  },
+  "Russia krasnoyarsk krai": {
+    "province": "Krasnoyarsk Krai",
+    "coordinates": {
+      "latitude": "63.3233807",
+      "longitude": "97.0979974"
+    }
+  },
+  "Canada nova scotia": {
+    "province": "Nova Scotia",
+    "coordinates": {
+      "latitude": "44.682",
+      "longitude": "-63.7443"
+    }
+  },
+  "Japan akita": {
+    "province": "Akita",
+    "coordinates": {
+      "latitude": "39.748679",
+      "longitude": "140.408228"
+    }
+  },
+  "Mauritius null": {
+    "coordinates": {
+      "latitude": "-20.348404",
+      "longitude": "57.552152"
+    }
+  },
+  "Kazakhstan null": {
+    "coordinates": {
+      "latitude": "48.0196",
+      "longitude": "66.9237"
+    }
+  },
+  "China yunnan": {
+    "province": "Yunnan",
+    "coordinates": {
+      "latitude": "24.974",
+      "longitude": "101.487"
+    }
+  },
+  "Ukraine kirovohrad oblast": {
+    "province": "Kirovohrad Oblast",
+    "coordinates": {
+      "latitude": "48.5079",
+      "longitude": "32.2623"
+    }
+  },
+  "Colombia choco": {
+    "province": "Choco",
+    "coordinates": {
+      "latitude": "5.2528",
+      "longitude": "-76.82600000000002"
+    }
+  },
+  "Mexico quintana roo": {
+    "province": "Quintana Roo",
+    "coordinates": {
+      "latitude": "19.1817",
+      "longitude": "-88.4791"
+    }
+  },
+  "Rwanda null": {
+    "coordinates": {
+      "latitude": "-1.9403",
+      "longitude": "29.8739"
+    }
+  },
+  "Ukraine sumy oblast": {
+    "province": "Sumy Oblast",
+    "coordinates": {
+      "latitude": "50.9077",
+      "longitude": "34.7981"
+    }
+  },
+  "China gansu": {
+    "province": "Gansu",
+    "coordinates": {
+      "latitude": "35.7518",
+      "longitude": "104.2861"
+    }
+  },
+  "Italy umbria": {
+    "province": "Umbria",
+    "coordinates": {
+      "latitude": "43.10675841",
+      "longitude": "12.38824698"
+    }
+  },
+  "S. Korea null": {
+    "coordinates": {
+      "latitude": "35.90775700000001",
+      "longitude": "127.766922"
+    }
+  },
+  "Russia voronezh oblast": {
+    "province": "Voronezh Oblast",
+    "coordinates": {
+      "latitude": "50.9800393",
+      "longitude": "40.15065070000001"
+    }
+  },
+  "New Zealand null": {
+    "coordinates": {
+      "latitude": "-40.9006",
+      "longitude": "174.886"
+    }
+  },
+  "Colombia unknown": {
+    "province": "Unknown",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "India dadra and nagar haveli and daman and diu": {
+    "province": "Dadra and Nagar Haveli and Daman and Diu",
+    "coordinates": {
+      "latitude": "20.194742",
+      "longitude": "73.080901"
+    }
+  },
+  "Russia tula oblast": {
+    "province": "Tula Oblast",
+    "coordinates": {
+      "latitude": "53.9570701",
+      "longitude": "37.3690909"
+    }
+  },
+  "US north dakota": {
+    "province": "North Dakota",
+    "coordinates": {
+      "latitude": "46.09686891",
+      "longitude": "-102.5285397"
+    }
+  },
+  "Chile coquimbo": {
+    "province": "Coquimbo",
+    "coordinates": {
+      "latitude": "-29.959",
+      "longitude": "-71.3389"
+    }
+  },
+  "Mexico null": {
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Russia leningrad oblast": {
+    "province": "Leningrad Oblast",
+    "coordinates": {
+      "latitude": "60.1853296",
+      "longitude": "32.3925325"
+    }
+  },
+  "US massachusetts": {
+    "province": "Massachusetts",
+    "coordinates": {
+      "latitude": "41.72980578",
+      "longitude": "-70.28854339"
+    }
+  },
+  "Ukraine kharkiv oblast": {
+    "province": "Kharkiv Oblast",
+    "coordinates": {
+      "latitude": "49.9935",
+      "longitude": "36.2304"
+    }
+  },
+  "US florida": {
+    "province": "Florida",
+    "coordinates": {
+      "latitude": "29.67866525",
+      "longitude": "-82.35928158"
+    }
+  },
+  "Netherlands flevoland": {
+    "province": "Flevoland",
+    "coordinates": {
+      "latitude": "52.550383",
+      "longitude": "5.515162"
+    }
+  },
+  "China ningxia": {
+    "province": "Ningxia",
+    "coordinates": {
+      "latitude": "37.2692",
+      "longitude": "106.1655"
+    }
+  },
+  "Japan tochigi": {
+    "province": "Tochigi",
+    "coordinates": {
+      "latitude": "36.689912",
+      "longitude": "139.819213"
+    }
+  },
+  "Belgium liege": {
+    "province": "Liege",
+    "coordinates": {
+      "latitude": "50.4496",
+      "longitude": "5.8492"
+    }
+  },
+  "Chile tarapaca": {
+    "province": "Tarapaca",
+    "coordinates": {
+      "latitude": "-19.9232",
+      "longitude": "-69.5132"
+    }
+  },
+  "Israel null": {
+    "coordinates": {
+      "latitude": "31.046051",
+      "longitude": "34.851612"
+    }
+  },
+  "Russia orel oblast": {
+    "province": "Orel Oblast",
+    "coordinates": {
+      "latitude": "52.96854329999999",
+      "longitude": "36.0692477"
+    }
+  },
+  "Costa Rica null": {
+    "coordinates": {
+      "latitude": "9.7489",
+      "longitude": "-83.7534"
+    }
+  },
+  "Japan osaka": {
+    "province": "Osaka",
+    "coordinates": {
+      "latitude": "34.620965000000005",
+      "longitude": "135.507481"
+    }
+  },
+  "Mexico guanajuato": {
+    "province": "Guanajuato",
+    "coordinates": {
+      "latitude": "21.019",
+      "longitude": "-101.2574"
+    }
+  },
+  "Netherlands sint maarten": {
+    "province": "Sint Maarten",
+    "coordinates": {
+      "latitude": "18.0425",
+      "longitude": "-63.0548"
+    }
+  },
+  "Russia astrakhan oblast": {
+    "province": "Astrakhan Oblast",
+    "coordinates": {
+      "latitude": "47.1878186",
+      "longitude": "47.608851"
+    }
+  },
+  "China liaoning": {
+    "province": "Liaoning",
+    "coordinates": {
+      "latitude": "41.2956",
+      "longitude": "122.6085"
+    }
+  },
+  "India assam": {
+    "province": "Assam",
+    "coordinates": {
+      "latitude": "26.357149",
+      "longitude": "92.830441"
+    }
+  },
+  "Albania null": {
+    "coordinates": {
+      "latitude": "41.1533",
+      "longitude": "20.1683"
+    }
+  },
+  "India delhi": {
+    "province": "Delhi",
+    "coordinates": {
+      "latitude": "28.646519",
+      "longitude": "77.10898"
+    }
+  },
+  "Taiwan null": {
+    "coordinates": {
+      "latitude": "23.7",
+      "longitude": "121.0"
+    }
+  },
+  "Italy friuli venezia giulia": {
+    "province": "Friuli Venezia Giulia",
+    "coordinates": {
+      "latitude": "45.6494354",
+      "longitude": "13.76813649"
+    }
+  },
+  "Canada quebec": {
+    "province": "Quebec",
+    "coordinates": {
+      "latitude": "52.9399",
+      "longitude": "-73.5491"
+    }
+  },
+  "India jharkhand": {
+    "province": "Jharkhand",
+    "coordinates": {
+      "latitude": "23.654536",
+      "longitude": "85.557631"
+    }
+  },
+  "China tianjin": {
+    "province": "Tianjin",
+    "coordinates": {
+      "latitude": "39.3054",
+      "longitude": "117.323"
+    }
+  },
+  "Brazil para": {
+    "province": "Para",
+    "coordinates": {
+      "latitude": "-1.9981",
+      "longitude": "-54.9306"
+    }
+  },
+  "Japan saitama": {
+    "province": "Saitama",
+    "coordinates": {
+      "latitude": "35.997101",
+      "longitude": "139.347635"
+    }
+  },
+  "Peru apurimac": {
+    "province": "Apurimac",
+    "coordinates": {
+      "latitude": "-14.027713",
+      "longitude": "-72.975378"
+    }
+  },
+  "India madhya pradesh": {
+    "province": "Madhya Pradesh",
+    "coordinates": {
+      "latitude": "23.541513",
+      "longitude": "78.289633"
+    }
+  },
+  "Japan chiba": {
+    "province": "Chiba",
+    "coordinates": {
+      "latitude": "35.510141",
+      "longitude": "140.198917"
+    }
+  },
+  "US louisiana": {
+    "province": "Louisiana",
+    "coordinates": {
+      "latitude": "30.2950649",
+      "longitude": "-92.41419698"
+    }
+  },
+  "Japan wakayama": {
+    "province": "Wakayama",
+    "coordinates": {
+      "latitude": "33.911879",
+      "longitude": "135.505446"
+    }
+  },
+  "China hubei": {
+    "province": "Hubei",
+    "coordinates": {
+      "latitude": "30.9756",
+      "longitude": "112.2707"
+    }
+  },
+  "Portugal null": {
+    "coordinates": {
+      "latitude": "39.3999",
+      "longitude": "-8.2245"
+    }
+  },
+  "Gabon null": {
+    "coordinates": {
+      "latitude": "-0.8037",
+      "longitude": "11.6094"
+    }
+  },
+  "India uttar pradesh": {
+    "province": "Uttar Pradesh",
+    "coordinates": {
+      "latitude": "26.925425",
+      "longitude": "80.560982"
+    }
+  },
+  "Russia belgorod oblast": {
+    "province": "Belgorod Oblast",
+    "coordinates": {
+      "latitude": "50.7080119",
+      "longitude": "37.5837615"
+    }
+  },
+  "Australia new south wales": {
+    "province": "New South Wales",
+    "coordinates": {
+      "latitude": "-33.8688",
+      "longitude": "151.2093"
+    }
+  },
+  "Spain aragon": {
+    "province": "Aragon",
+    "coordinates": {
+      "latitude": "41.5976",
+      "longitude": "-0.9057"
+    }
+  },
+  "US mississippi": {
+    "province": "Mississippi",
+    "coordinates": {
+      "latitude": "31.47669768",
+      "longitude": "-91.35326037"
+    }
+  },
+  "Canada saskatchewan": {
+    "province": "Saskatchewan",
+    "coordinates": {
+      "latitude": "52.9399",
+      "longitude": "-106.4509"
+    }
+  },
+  "Cuba null": {
+    "coordinates": {
+      "latitude": "21.521757",
+      "longitude": "-77.78116700000002"
+    }
+  },
+  "UK cayman islands": {
+    "province": "Cayman Islands",
+    "coordinates": {
+      "latitude": "19.3133",
+      "longitude": "-81.2546"
+    }
+  },
+  "US delaware": {
+    "province": "Delaware",
+    "coordinates": {
+      "latitude": "39.08646628",
+      "longitude": "-75.56884914"
+    }
+  },
+  "Haiti null": {
+    "coordinates": {
+      "latitude": "18.9712",
+      "longitude": "-72.2852"
+    }
+  },
+  "Italy p.a. bolzano": {
+    "province": "P.A. Bolzano",
+    "coordinates": {
+      "latitude": "46.49933453",
+      "longitude": "11.35662422"
+    }
+  },
+  "UK northern ireland": {
+    "province": "Northern Ireland",
+    "coordinates": {
+      "latitude": "54.7877",
+      "longitude": "-6.4923"
+    }
+  },
+  "France french polynesia": {
+    "province": "French Polynesia",
+    "coordinates": {
+      "latitude": "-17.6797",
+      "longitude": "-149.4068"
+    }
+  },
+  "Maldives null": {
+    "coordinates": {
+      "latitude": "3.2028",
+      "longitude": "73.2207"
+    }
+  },
+  "China unknown": {
+    "province": "Unknown",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Ethiopia null": {
+    "coordinates": {
+      "latitude": "9.145",
+      "longitude": "40.4897"
+    }
+  },
+  "Japan port quarantine": {
+    "province": "Port Quarantine",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "US virginia": {
+    "province": "Virginia",
+    "coordinates": {
+      "latitude": "37.76707161",
+      "longitude": "-75.63234615"
+    }
+  },
+  "China beijing": {
+    "province": "Beijing",
+    "coordinates": {
+      "latitude": "40.1824",
+      "longitude": "116.4142"
+    }
+  },
+  "China null": {
+    "coordinates": {
+      "latitude": "40.1824",
+      "longitude": "116.4142"
+    }
+  },
+  "China hunan": {
+    "province": "Hunan",
+    "coordinates": {
+      "latitude": "27.6104",
+      "longitude": "111.7088"
+    }
+  },
+  "Italy veneto": {
+    "province": "Veneto",
+    "coordinates": {
+      "latitude": "45.43490485",
+      "longitude": "12.33845213"
+    }
+  },
+  "Ukraine poltava oblast": {
+    "province": "Poltava Oblast",
+    "coordinates": {
+      "latitude": "49.5883",
+      "longitude": "34.5514"
+    }
+  },
+  "US new mexico": {
+    "province": "New Mexico",
+    "coordinates": {
+      "latitude": "35.05163625",
+      "longitude": "-106.6703554"
+    }
+  },
+  "Norway null": {
+    "coordinates": {
+      "latitude": "60.472",
+      "longitude": "8.4689"
+    }
+  },
+  "Germany sachsen-anhalt": {
+    "province": "Sachsen-Anhalt",
+    "coordinates": {
+      "latitude": "51.9503",
+      "longitude": "11.6923"
+    }
+  },
+  "Russia kursk oblast": {
+    "province": "Kursk Oblast",
+    "coordinates": {
+      "latitude": "51.6568453",
+      "longitude": "36.4852695"
+    }
+  },
+  "Sweden ostergotland": {
+    "province": "Ostergotland",
+    "coordinates": {
+      "latitude": "58.3454",
+      "longitude": "15.5198"
+    }
+  },
+  "Brazil pernambuco": {
+    "province": "Pernambuco",
+    "coordinates": {
+      "latitude": "-8.8137",
+      "longitude": "-36.9541"
+    }
+  },
+  "Ukraine donetsk oblast": {
+    "province": "Donetsk Oblast",
+    "coordinates": {
+      "latitude": "48.0159",
+      "longitude": "37.8028"
+    }
+  },
+  "Japan kagoshima": {
+    "province": "Kagoshima",
+    "coordinates": {
+      "latitude": "31.009484000000004",
+      "longitude": "130.430665"
+    }
+  },
+  "US nevada": {
+    "province": "Nevada",
+    "coordinates": {
+      "latitude": "39.15509045",
+      "longitude": "-119.7480219"
+    }
+  },
+  "Pakistan null": {
+    "coordinates": {
+      "latitude": "30.811346",
+      "longitude": "72.13913199999998"
+    }
+  },
+  "France mayotte": {
+    "province": "Mayotte",
+    "coordinates": {
+      "latitude": "-12.8275",
+      "longitude": "45.166244"
+    }
+  },
+  "Namibia null": {
+    "coordinates": {
+      "latitude": "-22.9576",
+      "longitude": "18.4904"
+    }
+  },
+  "Chile magallanes": {
+    "province": "Magallanes",
+    "coordinates": {
+      "latitude": "-52.368",
+      "longitude": "-70.9863"
+    }
+  },
+  "Ukraine sevastopol*": {
+    "province": "Sevastopol*",
+    "coordinates": {
+      "latitude": "44.6054",
+      "longitude": "33.522"
+    }
+  },
+  "Liberia null": {
+    "coordinates": {
+      "latitude": "6.4280550000000005",
+      "longitude": "-9.429499"
+    }
+  },
+  "Guinea-Bissau null": {
+    "coordinates": {
+      "latitude": "11.8037",
+      "longitude": "-15.1804"
+    }
+  },
+  "Burma null": {
+    "coordinates": {
+      "latitude": "21.9162",
+      "longitude": "95.956"
+    }
+  },
+  "China jilin": {
+    "province": "Jilin",
+    "coordinates": {
+      "latitude": "43.6661",
+      "longitude": "126.1923"
+    }
+  },
+  "Colombia atlantico": {
+    "province": "Atlantico",
+    "coordinates": {
+      "latitude": "10.6966",
+      "longitude": "-74.8741"
+    }
+  },
+  "China shandong": {
+    "province": "Shandong",
+    "coordinates": {
+      "latitude": "36.3427",
+      "longitude": "118.1498"
+    }
+  },
+  "Netherlands friesland": {
+    "province": "Friesland",
+    "coordinates": {
+      "latitude": "53.087337",
+      "longitude": "5.7925"
+    }
+  },
+  "Antigua and Barbuda null": {
+    "coordinates": {
+      "latitude": "17.0608",
+      "longitude": "-61.7964"
+    }
+  },
+  "San Marino null": {
+    "coordinates": {
+      "latitude": "43.9424",
+      "longitude": "12.4578"
+    }
+  },
+  "Russia bryansk oblast": {
+    "province": "Bryansk Oblast",
+    "coordinates": {
+      "latitude": "52.8873315",
+      "longitude": "33.41585300000001"
+    }
+  },
+  "Indonesia null": {
+    "coordinates": {
+      "latitude": "-0.7893",
+      "longitude": "113.9213"
+    }
+  },
+  "Peru null": {
+    "coordinates": {
+      "latitude": "-6.353049",
+      "longitude": "-79.824113"
+    }
+  },
+  "Slovenia null": {
+    "coordinates": {
+      "latitude": "46.1512",
+      "longitude": "14.9955"
+    }
+  },
+  "US missouri": {
+    "province": "Missouri",
+    "coordinates": {
+      "latitude": "40.19058551",
+      "longitude": "-92.60078167"
+    }
+  },
+  "Andorra null": {
+    "coordinates": {
+      "latitude": "42.5063",
+      "longitude": "1.5218"
+    }
+  },
+  "Russia moscow oblast": {
+    "province": "Moscow Oblast",
+    "coordinates": {
+      "latitude": "55.50431579999999",
+      "longitude": "38.0353929"
+    }
+  },
+  "Russia null": {
+    "coordinates": {
+      "latitude": "55.50431579999999",
+      "longitude": "38.0353929"
+    }
+  },
+  "Brazil sao paulo": {
+    "province": "Sao Paulo",
+    "coordinates": {
+      "latitude": "-23.5505",
+      "longitude": "-46.6333"
+    }
+  },
+  "Germany brandenburg": {
+    "province": "Brandenburg",
+    "coordinates": {
+      "latitude": "52.4125",
+      "longitude": "12.5316"
+    }
+  },
+  "Jamaica null": {
+    "coordinates": {
+      "latitude": "18.1096",
+      "longitude": "-77.2975"
+    }
+  },
+  "Senegal null": {
+    "coordinates": {
+      "latitude": "14.4974",
+      "longitude": "-14.4524"
+    }
+  },
+  "Colombia magdalena": {
+    "province": "Magdalena",
+    "coordinates": {
+      "latitude": "10.4113",
+      "longitude": "-74.4057"
+    }
+  },
+  "Belgium west flanders": {
+    "province": "West Flanders",
+    "coordinates": {
+      "latitude": "51.0536",
+      "longitude": "3.1458"
+    }
+  },
+  "Colombia santander": {
+    "province": "Santander",
+    "coordinates": {
+      "latitude": "6.6437",
+      "longitude": "-73.6536"
+    }
+  },
+  "Thailand null": {
+    "coordinates": {
+      "latitude": "15.870032",
+      "longitude": "100.992541"
+    }
+  },
+  "Saint Kitts and Nevis null": {
+    "coordinates": {
+      "latitude": "17.357822",
+      "longitude": "-62.782998"
+    }
+  },
+  "India gujarat": {
+    "province": "Gujarat",
+    "coordinates": {
+      "latitude": "22.694884",
+      "longitude": "71.590923"
+    }
+  },
+  "US kentucky": {
+    "province": "Kentucky",
+    "coordinates": {
+      "latitude": "37.10459774",
+      "longitude": "-85.28129668"
+    }
+  },
+  "Ireland null": {
+    "coordinates": {
+      "latitude": "53.1424",
+      "longitude": "-7.6921"
+    }
+  },
+  "Ukraine rivne oblast": {
+    "province": "Rivne Oblast",
+    "coordinates": {
+      "latitude": "50.6199",
+      "longitude": "26.2516"
+    }
+  },
+  "Peru madre de dios": {
+    "province": "Madre de Dios",
+    "coordinates": {
+      "latitude": "-11.972699",
+      "longitude": "-70.53171999999998"
+    }
+  },
+  "Colombia norte de santander": {
+    "province": "Norte de Santander",
+    "coordinates": {
+      "latitude": "7.9463",
+      "longitude": "-72.8988"
+    }
+  },
+  "US puerto rico": {
+    "province": "Puerto Rico",
+    "coordinates": {
+      "latitude": "18.180117000000006",
+      "longitude": "-66.754367"
+    }
+  },
+  "Russia ryazan oblast": {
+    "province": "Ryazan Oblast",
+    "coordinates": {
+      "latitude": "54.42267320000001",
+      "longitude": "40.57052460000001"
+    }
+  },
+  "US illinois": {
+    "province": "Illinois",
+    "coordinates": {
+      "latitude": "39.98815591",
+      "longitude": "-91.18786813"
+    }
+  },
+  "Germany bayern": {
+    "province": "Bayern",
+    "coordinates": {
+      "latitude": "48.7904",
+      "longitude": "11.4979"
+    }
+  },
+  "Japan hokkaido": {
+    "province": "Hokkaido",
+    "coordinates": {
+      "latitude": "43.385711",
+      "longitude": "142.552318"
+    }
+  },
+  "El Salvador null": {
+    "coordinates": {
+      "latitude": "13.7942",
+      "longitude": "-88.8965"
+    }
+  },
+  "Netherlands": {
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Peru la libertad": {
+    "province": "La Libertad",
+    "coordinates": {
+      "latitude": "-7.92139",
+      "longitude": "-78.370238"
+    }
+  },
+  "Romania null": {
+    "coordinates": {
+      "latitude": "45.9432",
+      "longitude": "24.9668"
+    }
+  },
+  "Spain castilla y leon": {
+    "province": "Castilla y Leon",
+    "coordinates": {
+      "latitude": "41.8357",
+      "longitude": "-4.3976"
+    }
+  },
+  "Spain null": {
+    "coordinates": {
+      "latitude": "41.8357",
+      "longitude": "-4.3976"
+    }
+  },
+  "Vietnam null": {
+    "coordinates": {
+      "latitude": "14.058324",
+      "longitude": "108.277199"
+    }
+  },
+  "Tanzania null": {
+    "coordinates": {
+      "latitude": "-6.369028",
+      "longitude": "34.888822"
+    }
+  },
+  "Armenia null": {
+    "coordinates": {
+      "latitude": "40.0691",
+      "longitude": "45.0382"
+    }
+  },
+  "Sweden stockholm": {
+    "province": "Stockholm",
+    "coordinates": {
+      "latitude": "59.6025",
+      "longitude": "18.1384"
+    }
+  },
+  "Sweden null": {
+    "coordinates": {
+      "latitude": "59.6025",
+      "longitude": "18.1384"
+    }
+  },
+  "Colombia amazonas": {
+    "province": "Amazonas",
+    "coordinates": {
+      "latitude": "-1.4429",
+      "longitude": "-71.5724"
+    }
+  },
+  "UK anguilla": {
+    "province": "Anguilla",
+    "coordinates": {
+      "latitude": "18.2206",
+      "longitude": "-63.0686"
+    }
+  },
+  "Japan toyama": {
+    "province": "Toyama",
+    "coordinates": {
+      "latitude": "36.637464",
+      "longitude": "137.26934599999998"
+    }
+  },
+  "Niger null": {
+    "coordinates": {
+      "latitude": "17.607789",
+      "longitude": "8.081666"
+    }
+  },
+  "Japan kanagawa": {
+    "province": "Kanagawa",
+    "coordinates": {
+      "latitude": "35.415312",
+      "longitude": "139.338983"
+    }
+  },
+  "Russia kurgan oblast": {
+    "province": "Kurgan Oblast",
+    "coordinates": {
+      "latitude": "55.7655302",
+      "longitude": "64.5632681"
+    }
+  },
+  "Switzerland null": {
+    "coordinates": {
+      "latitude": "46.8182",
+      "longitude": "8.2275"
+    }
+  },
+  "Mexico tabasco": {
+    "province": "Tabasco",
+    "coordinates": {
+      "latitude": "17.8409",
+      "longitude": "-92.6189"
+    }
+  },
+  "Summer Olympics 2020 null": {
+    "coordinates": {
+      "latitude": "35.6491",
+      "longitude": "139.7737"
+    }
+  },
+  "Colombia bolivar": {
+    "province": "Bolivar",
+    "coordinates": {
+      "latitude": "8.6704",
+      "longitude": "-74.03"
+    }
+  },
+  "US maine": {
+    "province": "Maine",
+    "coordinates": {
+      "latitude": "44.1664747",
+      "longitude": "-70.20380627"
+    }
+  },
+  "Japan ehime": {
+    "province": "Ehime",
+    "coordinates": {
+      "latitude": "33.624835",
+      "longitude": "132.856842"
+    }
+  },
+  "Morocco null": {
+    "coordinates": {
+      "latitude": "31.7917",
+      "longitude": "-7.0926"
+    }
+  },
+  "Peru callao": {
+    "province": "Callao",
+    "coordinates": {
+      "latitude": "-11.954609",
+      "longitude": "-77.136042"
+    }
+  },
+  "Russia mordovia republic": {
+    "province": "Mordovia Republic",
+    "coordinates": {
+      "latitude": "54.4419829",
+      "longitude": "44.4661144"
+    }
+  },
+  "India tripura": {
+    "province": "Tripura",
+    "coordinates": {
+      "latitude": "23.746783",
+      "longitude": "91.743565"
+    }
+  },
+  "Russia vladimir oblast": {
+    "province": "Vladimir Oblast",
+    "coordinates": {
+      "latitude": "56.0503336",
+      "longitude": "40.6561633"
+    }
+  },
+  "Ukraine zaporizhia oblast": {
+    "province": "Zaporizhia Oblast",
+    "coordinates": {
+      "latitude": "47.8388",
+      "longitude": "35.1396"
+    }
+  },
+  "China xinjiang": {
+    "province": "Xinjiang",
+    "coordinates": {
+      "latitude": "41.1129",
+      "longitude": "85.2401"
+    }
+  },
+  "Sweden gotland": {
+    "province": "Gotland",
+    "coordinates": {
+      "latitude": "57.4684",
+      "longitude": "18.4867"
+    }
+  },
+  "Liechtenstein null": {
+    "coordinates": {
+      "latitude": "47.14",
+      "longitude": "9.55"
+    }
+  },
+  "France null": {
+    "coordinates": {
+      "latitude": "46.2276",
+      "longitude": "2.2137"
+    }
+  },
+  "Mexico morelos": {
+    "province": "Morelos",
+    "coordinates": {
+      "latitude": "18.6813",
+      "longitude": "-99.1013"
+    }
+  },
+  "Mexico nayarit": {
+    "province": "Nayarit",
+    "coordinates": {
+      "latitude": "21.7514",
+      "longitude": "-104.8455"
+    }
+  },
+  "Russia karachay-cherkess republic": {
+    "province": "Karachay-Cherkess Republic",
+    "coordinates": {
+      "latitude": "43.7368326",
+      "longitude": "41.7267991"
+    }
+  },
+  "US ohio": {
+    "province": "Ohio",
+    "coordinates": {
+      "latitude": "38.84541072",
+      "longitude": "-83.4718964"
+    }
+  },
+  "Russia kalmykia republic": {
+    "province": "Kalmykia Republic",
+    "coordinates": {
+      "latitude": "46.2313018",
+      "longitude": "45.3275745"
+    }
+  },
+  "Ukraine mykolaiv oblast": {
+    "province": "Mykolaiv Oblast",
+    "coordinates": {
+      "latitude": "46.975",
+      "longitude": "31.9946"
+    }
+  },
+  "Russia chechen republic": {
+    "province": "Chechen Republic",
+    "coordinates": {
+      "latitude": "43.39761470000001",
+      "longitude": "45.6985005"
+    }
+  },
+  "China macau": {
+    "province": "Macau",
+    "coordinates": {
+      "latitude": "22.1667",
+      "longitude": "113.55"
+    }
+  },
+  "Russia altai republic": {
+    "province": "Altai Republic",
+    "coordinates": {
+      "latitude": "50.7114101",
+      "longitude": "86.8572186"
+    }
+  },
+  "Algeria null": {
+    "coordinates": {
+      "latitude": "28.0339",
+      "longitude": "1.6596"
+    }
+  },
+  "Australia tasmania": {
+    "province": "Tasmania",
+    "coordinates": {
+      "latitude": "-42.8821",
+      "longitude": "147.3272"
+    }
+  },
+  "India rajasthan": {
+    "province": "Rajasthan",
+    "coordinates": {
+      "latitude": "26.583423",
+      "longitude": "73.847973"
+    }
+  },
+  "Russia tyumen oblast": {
+    "province": "Tyumen Oblast",
+    "coordinates": {
+      "latitude": "58.8206488",
+      "longitude": "70.36588370000001"
+    }
+  },
+  "Russia omsk oblast": {
+    "province": "Omsk Oblast",
+    "coordinates": {
+      "latitude": "56.09352629999999",
+      "longitude": "73.5099936"
+    }
+  },
+  "Pakistan sindh": {
+    "province": "Sindh",
+    "coordinates": {
+      "latitude": "26.009446",
+      "longitude": "68.77680699999999"
+    }
+  },
+  "Germany bremen": {
+    "province": "Bremen",
+    "coordinates": {
+      "latitude": "53.0793",
+      "longitude": "8.8017"
+    }
+  },
+  "Colombia vichada": {
+    "province": "Vichada",
+    "coordinates": {
+      "latitude": "4.4234",
+      "longitude": "-69.2878"
+    }
+  },
+  "Russia stavropol krai": {
+    "province": "Stavropol Krai",
+    "coordinates": {
+      "latitude": "44.86325770000001",
+      "longitude": "43.4406913"
+    }
+  },
+  "India jammu and kashmir": {
+    "province": "Jammu and Kashmir",
+    "coordinates": {
+      "latitude": "33.75943",
+      "longitude": "76.612638"
+    }
+  },
+  "Chile nuble": {
+    "province": "Nuble",
+    "coordinates": {
+      "latitude": "-36.7226",
+      "longitude": "-71.7622"
+    }
+  },
+  "Montenegro null": {
+    "coordinates": {
+      "latitude": "42.708678000000006",
+      "longitude": "19.37439"
+    }
+  },
+  "Russia vologda oblast": {
+    "province": "Vologda Oblast",
+    "coordinates": {
+      "latitude": "60.0391461",
+      "longitude": "43.1215213"
+    }
+  },
+  "Australia northern territory": {
+    "province": "Northern Territory",
+    "coordinates": {
+      "latitude": "-12.4634",
+      "longitude": "130.8456"
+    }
+  },
+  "US hawaii": {
+    "province": "Hawaii",
+    "coordinates": {
+      "latitude": "19.60121157",
+      "longitude": "-155.5210167"
+    }
+  },
+  "Brazil mato grosso": {
+    "province": "Mato Grosso",
+    "coordinates": {
+      "latitude": "-12.6819",
+      "longitude": "-56.9211"
+    }
+  },
+  "UK bermuda": {
+    "province": "Bermuda",
+    "coordinates": {
+      "latitude": "32.3078",
+      "longitude": "-64.7505"
+    }
+  },
+  "Eswatini null": {
+    "coordinates": {
+      "latitude": "-26.5225",
+      "longitude": "31.4659"
+    }
+  },
+  "Swaziland null": {
+    "coordinates": {
+      "latitude": "26.1818",
+      "longitude": "31.0622"
+    }
+  },
+  "Croatia null": {
+    "coordinates": {
+      "latitude": "45.1",
+      "longitude": "15.2"
+    }
+  },
+  "Japan saga": {
+    "province": "Saga",
+    "coordinates": {
+      "latitude": "33.286977",
+      "longitude": "130.115738"
+    }
+  },
+  "India goa": {
+    "province": "Goa",
+    "coordinates": {
+      "latitude": "15.359682",
+      "longitude": "74.057396"
+    }
+  },
+  "Spain asturias": {
+    "province": "Asturias",
+    "coordinates": {
+      "latitude": "43.3614",
+      "longitude": "-5.8593"
+    }
+  },
+  "Hungary null": {
+    "coordinates": {
+      "latitude": "47.1625",
+      "longitude": "19.5033"
+    }
+  },
+  "Russia kemerovo oblast": {
+    "province": "Kemerovo Oblast",
+    "coordinates": {
+      "latitude": "54.53357809999999",
+      "longitude": "87.342861"
+    }
+  },
+  "UK wales": {
+    "province": "Wales",
+    "coordinates": {
+      "latitude": "52.1307",
+      "longitude": "-3.7837"
+    }
+  },
+  "Oman null": {
+    "coordinates": {
+      "latitude": "21.512583",
+      "longitude": "55.92325500000001"
+    }
+  },
+  "Ukraine dnipropetrovsk oblast": {
+    "province": "Dnipropetrovsk Oblast",
+    "coordinates": {
+      "latitude": "48.4647",
+      "longitude": "35.0462"
+    }
+  },
+  "Mexico chihuahua": {
+    "province": "Chihuahua",
+    "coordinates": {
+      "latitude": "28.633000000000006",
+      "longitude": "-106.0691"
+    }
+  },
+  "Russia kostroma oblast": {
+    "province": "Kostroma Oblast",
+    "coordinates": {
+      "latitude": "58.424756",
+      "longitude": "44.2533273"
+    }
+  },
+  "China tibet": {
+    "province": "Tibet",
+    "coordinates": {
+      "latitude": "31.6927",
+      "longitude": "88.0924"
+    }
+  },
+  "Mali null": {
+    "coordinates": {
+      "latitude": "17.570692",
+      "longitude": "-3.996166000000001"
+    }
+  },
+  "US northern mariana islands": {
+    "province": "Northern Mariana Islands",
+    "coordinates": {
+      "latitude": "15.0979",
+      "longitude": "145.6739"
+    }
+  },
+  "Brazil minas gerais": {
+    "province": "Minas Gerais",
+    "coordinates": {
+      "latitude": "-18.5122",
+      "longitude": "-44.555"
+    }
+  },
+  "Kyrgyzstan null": {
+    "coordinates": {
+      "latitude": "41.20438",
+      "longitude": "74.766098"
+    }
+  },
+  "United Arab Emirates null": {
+    "coordinates": {
+      "latitude": "23.424076",
+      "longitude": "53.847818"
+    }
+  },
+  "UAE null": {
+    "coordinates": {
+      "latitude": "23.424076",
+      "longitude": "53.847818"
+    }
+  },
+  "Cambodia null": {
+    "coordinates": {
+      "latitude": "11.55",
+      "longitude": "104.9167"
+    }
+  },
+  "Japan kagawa": {
+    "province": "Kagawa",
+    "coordinates": {
+      "latitude": "34.217292",
+      "longitude": "133.969047"
+    }
+  },
+  "India kerala": {
+    "province": "Kerala",
+    "coordinates": {
+      "latitude": "10.450898",
+      "longitude": "76.405749"
+    }
+  },
+  "Colombia cundinamarca": {
+    "province": "Cundinamarca",
+    "coordinates": {
+      "latitude": "5.026",
+      "longitude": "-74.03"
+    }
+  },
+  "US maryland": {
+    "province": "Maryland",
+    "coordinates": {
+      "latitude": "39.62357628",
+      "longitude": "-78.69280486"
+    }
+  },
+  "China guizhou": {
+    "province": "Guizhou",
+    "coordinates": {
+      "latitude": "26.8154",
+      "longitude": "106.8748"
+    }
+  },
+  "India nagaland": {
+    "province": "Nagaland",
+    "coordinates": {
+      "latitude": "26.06702",
+      "longitude": "94.470302"
+    }
+  },
+  "Russia tomsk oblast": {
+    "province": "Tomsk Oblast",
+    "coordinates": {
+      "latitude": "58.6124279",
+      "longitude": "82.04753149999998"
+    }
+  },
+  "UK gibraltar": {
+    "province": "Gibraltar",
+    "coordinates": {
+      "latitude": "36.1408",
+      "longitude": "-5.3536"
+    }
+  },
+  "Brazil mato grosso do sul": {
+    "province": "Mato Grosso do Sul",
+    "coordinates": {
+      "latitude": "-20.7722",
+      "longitude": "-54.7852"
+    }
+  },
+  "Russia krasnodar krai": {
+    "province": "Krasnodar Krai",
+    "coordinates": {
+      "latitude": "45.7684014",
+      "longitude": "39.0261044"
+    }
+  },
+  "Russia kabardino-balkarian republic": {
+    "province": "Kabardino-Balkarian Republic",
+    "coordinates": {
+      "latitude": "43.4806048",
+      "longitude": "43.5978976"
+    }
+  },
+  "India manipur": {
+    "province": "Manipur",
+    "coordinates": {
+      "latitude": "24.738975",
+      "longitude": "93.882541"
+    }
+  },
+  "Russia amur oblast": {
+    "province": "Amur Oblast",
+    "coordinates": {
+      "latitude": "52.8032368",
+      "longitude": "128.437295"
+    }
+  },
+  "Zimbabwe null": {
+    "coordinates": {
+      "latitude": "-19.015438",
+      "longitude": "29.154857"
+    }
+  },
+  "Russia khabarovsk krai": {
+    "province": "Khabarovsk Krai",
+    "coordinates": {
+      "latitude": "51.6312684",
+      "longitude": "136.121524"
+    }
+  },
+  "Comoros null": {
+    "coordinates": {
+      "latitude": "-11.6455",
+      "longitude": "43.3333"
+    }
+  },
+  "Australia south australia": {
+    "province": "South Australia",
+    "coordinates": {
+      "latitude": "-34.9285",
+      "longitude": "138.6007"
+    }
+  },
+  "Tunisia null": {
+    "coordinates": {
+      "latitude": "33.886917",
+      "longitude": "9.537499"
+    }
+  },
+  "Mexico ciudad de mexico": {
+    "province": "Ciudad de Mexico",
+    "coordinates": {
+      "latitude": "19.4326",
+      "longitude": "-99.1332"
+    }
+  },
+  "Brazil paraiba": {
+    "province": "Paraiba",
+    "coordinates": {
+      "latitude": "-7.24",
+      "longitude": "-36.782"
+    }
+  },
+  "Colombia arauca": {
+    "province": "Arauca",
+    "coordinates": {
+      "latitude": "7.0762",
+      "longitude": "-70.7105"
+    }
+  },
+  "Slovakia null": {
+    "coordinates": {
+      "latitude": "48.669",
+      "longitude": "19.699"
+    }
+  },
+  "Colombia guaviare": {
+    "province": "Guaviare",
+    "coordinates": {
+      "latitude": "1.0654",
+      "longitude": "-73.2603"
+    }
+  },
+  "Japan tottori": {
+    "province": "Tottori",
+    "coordinates": {
+      "latitude": "35.359069",
+      "longitude": "133.863619"
+    }
+  },
+  "Sri Lanka null": {
+    "coordinates": {
+      "latitude": "7.873054",
+      "longitude": "80.77179699999998"
+    }
+  },
+  "Belgium hainaut": {
+    "province": "Hainaut",
+    "coordinates": {
+      "latitude": "50.5257",
+      "longitude": "4.0621"
+    }
+  },
+  "Botswana null": {
+    "coordinates": {
+      "latitude": "-22.3285",
+      "longitude": "24.6849"
+    }
+  },
+  "France saint barthelemy": {
+    "province": "Saint Barthelemy",
+    "coordinates": {
+      "latitude": "17.9",
+      "longitude": "-62.8333"
+    }
+  },
+  "Somalia null": {
+    "coordinates": {
+      "latitude": "5.152149",
+      "longitude": "46.199616"
+    }
+  },
+  "South Africa null": {
+    "coordinates": {
+      "latitude": "-30.5595",
+      "longitude": "22.9375"
+    }
+  },
+  "Russia chuvashia republic": {
+    "province": "Chuvashia Republic",
+    "coordinates": {
+      "latitude": "55.4259922",
+      "longitude": "47.0849429"
+    }
+  },
+  "China jiangxi": {
+    "province": "Jiangxi",
+    "coordinates": {
+      "latitude": "27.614",
+      "longitude": "115.7221"
+    }
+  },
+  "Ukraine crimea republic*": {
+    "province": "Crimea Republic*",
+    "coordinates": {
+      "latitude": "45.2835",
+      "longitude": "34.2008"
+    }
+  },
+  "Pakistan islamabad": {
+    "province": "Islamabad",
+    "coordinates": {
+      "latitude": "33.665087",
+      "longitude": "73.121219"
+    }
+  },
+  "Vanuatu null": {
+    "coordinates": {
+      "latitude": "-15.3767",
+      "longitude": "166.9592"
+    }
+  },
+  "Kenya null": {
+    "coordinates": {
+      "latitude": "-0.0236",
+      "longitude": "37.9062"
+    }
+  },
+  "Russia karelia republic": {
+    "province": "Karelia Republic",
+    "coordinates": {
+      "latitude": "62.61940309999999",
+      "longitude": "33.4920267"
+    }
+  },
+  "US new hampshire": {
+    "province": "New Hampshire",
+    "coordinates": {
+      "latitude": "43.51637314",
+      "longitude": "-71.41684235"
+    }
+  },
+  "Japan aichi": {
+    "province": "Aichi",
+    "coordinates": {
+      "latitude": "35.035551",
+      "longitude": "137.211621"
+    }
+  },
+  "Japan hyogo": {
+    "province": "Hyogo",
+    "coordinates": {
+      "latitude": "35.039913",
+      "longitude": "134.828057"
+    }
+  },
+  "Russia ingushetia republic": {
+    "province": "Ingushetia Republic",
+    "coordinates": {
+      "latitude": "43.11542075",
+      "longitude": "45.01713552"
+    }
+  },
+  "Russia nizhny novgorod oblast": {
+    "province": "Nizhny Novgorod Oblast",
+    "coordinates": {
+      "latitude": "55.47180329999999",
+      "longitude": "44.0911594"
+    }
+  },
+  "Japan gunma": {
+    "province": "Gunma",
+    "coordinates": {
+      "latitude": "36.504479",
+      "longitude": "138.985605"
+    }
+  },
+  "Russia adygea republic": {
+    "province": "Adygea Republic",
+    "coordinates": {
+      "latitude": "44.6939006",
+      "longitude": "40.1520421"
+    }
+  },
+  "Russia ivanovo oblast": {
+    "province": "Ivanovo Oblast",
+    "coordinates": {
+      "latitude": "56.9167446",
+      "longitude": "41.43521370000001"
+    }
+  },
+  "Japan nara": {
+    "province": "Nara",
+    "coordinates": {
+      "latitude": "34.317451",
+      "longitude": "135.871644"
+    }
+  },
+  "China guangxi": {
+    "province": "Guangxi",
+    "coordinates": {
+      "latitude": "23.8298",
+      "longitude": "108.7881"
+    }
+  },
+  "US north carolina": {
+    "province": "North Carolina",
+    "coordinates": {
+      "latitude": "36.0434701",
+      "longitude": "-79.39976137"
+    }
+  },
+  "Chile arica y parinacota": {
+    "province": "Arica y Parinacota",
+    "coordinates": {
+      "latitude": "-18.594",
+      "longitude": "-69.4785"
+    }
+  },
+  "UK scotland": {
+    "province": "Scotland",
+    "coordinates": {
+      "latitude": "56.4907",
+      "longitude": "-4.2026"
+    }
+  },
+  "US washington": {
+    "province": "Washington",
+    "coordinates": {
+      "latitude": "46.98299757",
+      "longitude": "-118.5601734"
+    }
+  },
+  "USA null": {
+    "coordinates": {
+      "latitude": "46.98299757",
+      "longitude": "-118.5601734"
+    }
+  },
+  "United States of America null": {
+    "coordinates": {
+      "latitude": "46.98299757",
+      "longitude": "-118.5601734"
+    }
+  },
+  "Spain madrid": {
+    "province": "Madrid",
+    "coordinates": {
+      "latitude": "40.4168",
+      "longitude": "-3.7038"
+    }
+  },
+  "China shanxi": {
+    "province": "Shanxi",
+    "coordinates": {
+      "latitude": "37.5777",
+      "longitude": "112.2922"
+    }
+  },
+  "Russia jewish autonomous okrug": {
+    "province": "Jewish Autonomous Okrug",
+    "coordinates": {
+      "latitude": "48.57527615",
+      "longitude": "132.66307460000002"
+    }
+  },
+  "Canada new brunswick": {
+    "province": "New Brunswick",
+    "coordinates": {
+      "latitude": "46.5653",
+      "longitude": "-66.4619"
+    }
+  },
+  "Ecuador null": {
+    "coordinates": {
+      "latitude": "-1.8312",
+      "longitude": "-78.1834"
+    }
+  },
+  "Russia yamalo-nenets autonomous okrug": {
+    "province": "Yamalo-Nenets Autonomous Okrug",
+    "coordinates": {
+      "latitude": "67.1471631",
+      "longitude": "74.3415488"
+    }
+  },
+  "Japan kyoto": {
+    "province": "Kyoto",
+    "coordinates": {
+      "latitude": "35.253815",
+      "longitude": "135.443341"
+    }
+  },
+  "Colombia risaralda": {
+    "province": "Risaralda",
+    "coordinates": {
+      "latitude": "5.3158",
+      "longitude": "-75.9928"
+    }
+  },
+  "Ukraine zakarpattia oblast": {
+    "province": "Zakarpattia Oblast",
+    "coordinates": {
+      "latitude": "48.6208",
+      "longitude": "22.2879"
+    }
+  },
+  "Ukraine null": {
+    "coordinates": {
+      "latitude": "48.6208",
+      "longitude": "22.2879"
+    }
+  },
+  "Guatemala null": {
+    "coordinates": {
+      "latitude": "15.7835",
+      "longitude": "-90.2308"
+    }
+  },
+  "Samoa null": {
+    "coordinates": {
+      "latitude": "-13.759",
+      "longitude": "-172.1046"
+    }
+  },
+  "Germany null": {
+    "coordinates": {
+      "latitude": "49.3964",
+      "longitude": "7.023"
+    }
+  },
+  "Russia komi republic": {
+    "province": "Komi Republic",
+    "coordinates": {
+      "latitude": "63.9881421",
+      "longitude": "54.3326073"
+    }
+  },
+  "Uzbekistan null": {
+    "coordinates": {
+      "latitude": "41.377491",
+      "longitude": "64.585262"
+    }
+  },
+  "Peru cajamarca": {
+    "province": "Cajamarca",
+    "coordinates": {
+      "latitude": "-6.430284",
+      "longitude": "-78.74559599999998"
+    }
+  },
+  "Sweden uppsala": {
+    "province": "Uppsala",
+    "coordinates": {
+      "latitude": "60.0092",
+      "longitude": "17.2715"
+    }
+  },
+  "Nepal null": {
+    "coordinates": {
+      "latitude": "28.1667",
+      "longitude": "84.25"
+    }
+  },
+  "Palau null": {
+    "coordinates": {
+      "latitude": "7.515",
+      "longitude": "134.5825"
+    }
+  },
+  "Laos null": {
+    "coordinates": {
+      "latitude": "19.85627",
+      "longitude": "102.495496"
+    }
+  },
+  "US california": {
+    "province": "California",
+    "coordinates": {
+      "latitude": "37.64629437",
+      "longitude": "-121.8929271"
+    }
+  },
+  "Colombia antioquia": {
+    "province": "Antioquia",
+    "coordinates": {
+      "latitude": "7.1986",
+      "longitude": "-75.3412"
+    }
+  },
+  "Brazil parana": {
+    "province": "Parana",
+    "coordinates": {
+      "latitude": "-25.2521",
+      "longitude": "-52.0215"
+    }
+  },
+  "India himachal pradesh": {
+    "province": "Himachal Pradesh",
+    "coordinates": {
+      "latitude": "31.927213",
+      "longitude": "77.233081"
+    }
+  },
+  "US south carolina": {
+    "province": "South Carolina",
+    "coordinates": {
+      "latitude": "34.22333378",
+      "longitude": "-82.46170658"
+    }
+  },
+  "Japan fukuoka": {
+    "province": "Fukuoka",
+    "coordinates": {
+      "latitude": "33.526032",
+      "longitude": "130.666949"
+    }
+  },
+  "Spain andalusia": {
+    "province": "Andalusia",
+    "coordinates": {
+      "latitude": "37.5443",
+      "longitude": "-4.7278"
+    }
+  },
+  "Russia yaroslavl oblast": {
+    "province": "Yaroslavl Oblast",
+    "coordinates": {
+      "latitude": "57.77819760000001",
+      "longitude": "39.0021095"
+    }
+  },
+  "Spain murcia": {
+    "province": "Murcia",
+    "coordinates": {
+      "latitude": "37.9922",
+      "longitude": "-1.1307"
+    }
+  },
+  "Madagascar null": {
+    "coordinates": {
+      "latitude": "-18.766947",
+      "longitude": "46.869107"
+    }
+  },
+  "Spain la rioja": {
+    "province": "La Rioja",
+    "coordinates": {
+      "latitude": "42.2871",
+      "longitude": "-2.5396"
+    }
+  },
+  "Netherlands null": {
+    "coordinates": {
+      "latitude": "52.084251",
+      "longitude": "5.163824"
+    }
+  },
+  "Qatar null": {
+    "coordinates": {
+      "latitude": "25.3548",
+      "longitude": "51.1839"
+    }
+  },
+  "India null": {
+    "coordinates": {
+      "latitude": "14.70518",
+      "longitude": "76.166436"
+    }
+  },
+  "Chile los rios": {
+    "province": "Los Rios",
+    "coordinates": {
+      "latitude": "-40.231",
+      "longitude": "-72.3311"
+    }
+  },
+  "Peru loreto": {
+    "province": "Loreto",
+    "coordinates": {
+      "latitude": "-4.124847",
+      "longitude": "-74.424115"
+    }
+  },
+  "Sweden vasternorrland": {
+    "province": "Vasternorrland",
+    "coordinates": {
+      "latitude": "63.4276",
+      "longitude": "17.7292"
+    }
+  },
+  "Italy null": {
+    "coordinates": {
+      "latitude": "45.46679409",
+      "longitude": "9.190347404"
+    }
+  },
+  "Ukraine cherkasy oblast": {
+    "province": "Cherkasy Oblast",
+    "coordinates": {
+      "latitude": "49.4444",
+      "longitude": "32.0598"
+    }
+  },
+  "Canada newfoundland and labrador": {
+    "province": "Newfoundland and Labrador",
+    "coordinates": {
+      "latitude": "53.1355",
+      "longitude": "-57.6604"
+    }
+  },
+  "Czechia null": {
+    "coordinates": {
+      "latitude": "49.8175",
+      "longitude": "15.473"
+    }
+  },
+  "Paraguay null": {
+    "coordinates": {
+      "latitude": "-23.4425",
+      "longitude": "-58.4438"
+    }
+  },
+  "Mexico jalisco": {
+    "province": "Jalisco",
+    "coordinates": {
+      "latitude": "20.6595",
+      "longitude": "-103.3494"
+    }
+  },
+  "India uttarakhand": {
+    "province": "Uttarakhand",
+    "coordinates": {
+      "latitude": "30.156447",
+      "longitude": "79.197608"
+    }
+  },
+  "Bosnia null": {
+    "coordinates": {
+      "latitude": "43.9159",
+      "longitude": "17.6791"
+    }
+  },
+  "Brazil goias": {
+    "province": "Goias",
+    "coordinates": {
+      "latitude": "-15.827",
+      "longitude": "-49.8362"
+    }
+  },
+  "Russia smolensk oblast": {
+    "province": "Smolensk Oblast",
+    "coordinates": {
+      "latitude": "55.03434960000001",
+      "longitude": "33.0192065"
+    }
+  },
+  "Angola null": {
+    "coordinates": {
+      "latitude": "-11.2027",
+      "longitude": "17.8739"
+    }
+  },
+  "Brazil null": {
+    "coordinates": {
+      "latitude": "-30.0346",
+      "longitude": "-51.2177"
+    }
+  },
+  "Chile null": {
+    "coordinates": {
+      "latitude": "-38.9489",
+      "longitude": "-72.3311"
+    }
+  },
+  "Russia novgorod oblast": {
+    "province": "Novgorod Oblast",
+    "coordinates": {
+      "latitude": "58.2843833",
+      "longitude": "32.5169757"
+    }
+  },
+  "UK british virgin islands": {
+    "province": "British Virgin Islands",
+    "coordinates": {
+      "latitude": "18.4207",
+      "longitude": "-64.64"
+    }
+  },
+  "Brazil santa catarina": {
+    "province": "Santa Catarina",
+    "coordinates": {
+      "latitude": "-27.2423",
+      "longitude": "-50.2189"
+    }
+  },
+  "Peru huancavelica": {
+    "province": "Huancavelica",
+    "coordinates": {
+      "latitude": "-13.023888",
+      "longitude": "-75.00277"
+    }
+  },
+  "US guam": {
+    "province": "Guam",
+    "coordinates": {
+      "latitude": "13.4443",
+      "longitude": "144.7937"
+    }
+  },
+  "Colombia null": {
+    "coordinates": {
+      "latitude": "2.5359",
+      "longitude": "-75.5277"
+    }
+  },
+  "Iraq null": {
+    "coordinates": {
+      "latitude": "33.223191",
+      "longitude": "43.679291"
+    }
+  },
+  "France martinique": {
+    "province": "Martinique",
+    "coordinates": {
+      "latitude": "14.6415",
+      "longitude": "-61.0242"
+    }
+  },
+  "Sweden jamtland harjedalen": {
+    "province": "Jamtland Harjedalen",
+    "coordinates": {
+      "latitude": "63.1712",
+      "longitude": "14.9592"
+    }
+  },
+  "Spain navarra": {
+    "province": "Navarra",
+    "coordinates": {
+      "latitude": "42.6954",
+      "longitude": "-1.6761"
+    }
+  },
+  "Chile maule": {
+    "province": "Maule",
+    "coordinates": {
+      "latitude": "-35.5183",
+      "longitude": "-71.6885"
+    }
+  },
+  "China shanghai": {
+    "province": "Shanghai",
+    "coordinates": {
+      "latitude": "31.202",
+      "longitude": "121.4491"
+    }
+  },
+  "Afghanistan null": {
+    "coordinates": {
+      "latitude": "33.93911",
+      "longitude": "67.709953"
+    }
+  },
+  "Germany hessen": {
+    "province": "Hessen",
+    "coordinates": {
+      "latitude": "50.6521",
+      "longitude": "9.1624"
+    }
+  },
+  "Belgium limburg": {
+    "province": "Limburg",
+    "coordinates": {
+      "latitude": "50.9739",
+      "longitude": "5.3420000000000005"
+    }
+  },
+  "Germany berlin": {
+    "province": "Berlin",
+    "coordinates": {
+      "latitude": "52.52",
+      "longitude": "13.405"
+    }
+  },
+  "Sweden skane": {
+    "province": "Skane",
+    "coordinates": {
+      "latitude": "55.9903",
+      "longitude": "13.5958"
+    }
+  },
+  "Sweden orebro": {
+    "province": "Orebro",
+    "coordinates": {
+      "latitude": "59.535",
+      "longitude": "15.0066"
+    }
+  },
+  "Brunei null": {
+    "coordinates": {
+      "latitude": "4.5353",
+      "longitude": "114.7277"
+    }
+  },
+  "Malta null": {
+    "coordinates": {
+      "latitude": "35.9375",
+      "longitude": "14.3754"
+    }
+  },
+  "Mexico sonora": {
+    "province": "Sonora",
+    "coordinates": {
+      "latitude": "29.2972",
+      "longitude": "-110.3309"
+    }
+  },
+  "Peru amazonas": {
+    "province": "Amazonas",
+    "coordinates": {
+      "latitude": "-5.077253",
+      "longitude": "-78.050172"
+    }
+  },
+  "Ukraine kiev": {
+    "province": "Kiev",
+    "coordinates": {
+      "latitude": "50.4501",
+      "longitude": "30.5234"
+    }
+  },
+  "Russia primorsky krai": {
+    "province": "Primorsky Krai",
+    "coordinates": {
+      "latitude": "45.0819456",
+      "longitude": "134.726645"
+    }
+  },
+  "India mizoram": {
+    "province": "Mizoram",
+    "coordinates": {
+      "latitude": "23.309381",
+      "longitude": "92.83822"
+    }
+  },
+  "Sweden kalmar": {
+    "province": "Kalmar",
+    "coordinates": {
+      "latitude": "57.235",
+      "longitude": "16.1849"
+    }
+  },
+  "Brazil rondonia": {
+    "province": "Rondonia",
+    "coordinates": {
+      "latitude": "-11.5057",
+      "longitude": "-63.5806"
+    }
+  },
+  "India punjab": {
+    "province": "Punjab",
+    "coordinates": {
+      "latitude": "30.841465000000003",
+      "longitude": "75.40879"
+    }
+  },
+  "Sweden vasterbotten": {
+    "province": "Vasterbotten",
+    "coordinates": {
+      "latitude": "65.3337",
+      "longitude": "16.5162"
+    }
+  },
+  "Chad null": {
+    "coordinates": {
+      "latitude": "15.4542",
+      "longitude": "18.7322"
+    }
+  },
+  "China hebei": {
+    "province": "Hebei",
+    "coordinates": {
+      "latitude": "37.8957",
+      "longitude": "114.9042"
+    }
+  },
+  "Pakistan khyber pakhtunkhwa": {
+    "province": "Khyber Pakhtunkhwa",
+    "coordinates": {
+      "latitude": "34.485332",
+      "longitude": "72.09169"
+    }
+  },
+  "China jiangsu": {
+    "province": "Jiangsu",
+    "coordinates": {
+      "latitude": "32.9711",
+      "longitude": "119.455"
+    }
+  },
+  "Panama null": {
+    "coordinates": {
+      "latitude": "8.538",
+      "longitude": "-80.7821"
+    }
+  },
+  "Peru ucayali": {
+    "province": "Ucayali",
+    "coordinates": {
+      "latitude": "-9.621718",
+      "longitude": "-73.444929"
+    }
+  },
+  "US montana": {
+    "province": "Montana",
+    "coordinates": {
+      "latitude": "45.13434354",
+      "longitude": "-112.8984694"
+    }
+  },
+  "Germany thuringen": {
+    "province": "Thuringen",
+    "coordinates": {
+      "latitude": "51.011",
+      "longitude": "10.8453"
+    }
+  },
+  "Japan null": {
+    "coordinates": {
+      "latitude": "32.608154",
+      "longitude": "130.74523100000002"
+    }
+  },
+  "India haryana": {
+    "province": "Haryana",
+    "coordinates": {
+      "latitude": "29.20004",
+      "longitude": "76.332824"
+    }
+  },
+  "US west virginia": {
+    "province": "West Virginia",
+    "coordinates": {
+      "latitude": "39.1307219",
+      "longitude": "-80.00350858"
+    }
+  },
+  "Chile metropolitana": {
+    "province": "Metropolitana",
+    "coordinates": {
+      "latitude": "-33.4376",
+      "longitude": "-70.6505"
+    }
+  },
+  "France new caledonia": {
+    "province": "New Caledonia",
+    "coordinates": {
+      "latitude": "-20.904305",
+      "longitude": "165.618042"
+    }
+  },
+  "Ukraine lviv oblast": {
+    "province": "Lviv Oblast",
+    "coordinates": {
+      "latitude": "49.8397",
+      "longitude": "24.0297"
+    }
+  },
+  "Ukraine zhytomyr oblast": {
+    "province": "Zhytomyr Oblast",
+    "coordinates": {
+      "latitude": "50.2547",
+      "longitude": "28.6587"
+    }
+  },
+  "China hong kong": {
+    "province": "Hong Kong",
+    "coordinates": {
+      "latitude": "22.3",
+      "longitude": "114.2"
+    }
+  },
+  "Mexico veracruz": {
+    "province": "Veracruz",
+    "coordinates": {
+      "latitude": "19.1738",
+      "longitude": "-96.1342"
+    }
+  },
+  "New Zealand cook islands": {
+    "province": "Cook Islands",
+    "coordinates": {
+      "latitude": "-21.2367",
+      "longitude": "-159.7777"
+    }
+  },
+  "India west bengal": {
+    "province": "West Bengal",
+    "coordinates": {
+      "latitude": "23.814082",
+      "longitude": "87.979803"
+    }
+  },
+  "Kosovo null": {
+    "coordinates": {
+      "latitude": "42.602636",
+      "longitude": "20.902977"
+    }
+  },
+  "Germany sachsen": {
+    "province": "Sachsen",
+    "coordinates": {
+      "latitude": "51.1045",
+      "longitude": "13.2017"
+    }
+  },
+  "Japan tokushima": {
+    "province": "Tokushima",
+    "coordinates": {
+      "latitude": "33.919178",
+      "longitude": "134.242091"
+    }
+  },
+  "India meghalaya": {
+    "province": "Meghalaya",
+    "coordinates": {
+      "latitude": "25.536934",
+      "longitude": "91.278882"
+    }
+  },
+  "Canada northwest territories": {
+    "province": "Northwest Territories",
+    "coordinates": {
+      "latitude": "64.8255",
+      "longitude": "-124.8457"
+    }
+  },
+  "Canada manitoba": {
+    "province": "Manitoba",
+    "coordinates": {
+      "latitude": "53.7609",
+      "longitude": "-98.8139"
+    }
+  },
+  "Gambia null": {
+    "coordinates": {
+      "latitude": "13.4432",
+      "longitude": "-15.3101"
+    }
+  },
+  "India maharashtra": {
+    "province": "Maharashtra",
+    "coordinates": {
+      "latitude": "19.449759",
+      "longitude": "76.108221"
+    }
+  },
+  "US vermont": {
+    "province": "Vermont",
+    "coordinates": {
+      "latitude": "44.03217337",
+      "longitude": "-73.14130877"
+    }
+  },
+  "Spain c. valenciana": {
+    "province": "C. Valenciana",
+    "coordinates": {
+      "latitude": "39.484",
+      "longitude": "-0.7533"
+    }
+  },
+  "Colombia putumayo": {
+    "province": "Putumayo",
+    "coordinates": {
+      "latitude": "0.436",
+      "longitude": "-75.5277"
+    }
+  },
+  "Ukraine vinnytsia oblast": {
+    "province": "Vinnytsia Oblast",
+    "coordinates": {
+      "latitude": "49.2331",
+      "longitude": "28.4682"
+    }
+  },
+  "Honduras null": {
+    "coordinates": {
+      "latitude": "15.2",
+      "longitude": "-86.2419"
+    }
+  },
+  "Jordan null": {
+    "coordinates": {
+      "latitude": "31.24",
+      "longitude": "36.51"
+    }
+  },
+  "Burundi null": {
+    "coordinates": {
+      "latitude": "-3.3731",
+      "longitude": "29.9189"
+    }
+  },
+  "Canada diamond princess": {
+    "province": "Diamond Princess",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "France wallis and futuna": {
+    "province": "Wallis and Futuna",
+    "coordinates": {
+      "latitude": "-14.2938",
+      "longitude": "-178.1165"
+    }
+  },
+  "UK isle of man": {
+    "province": "Isle of Man",
+    "coordinates": {
+      "latitude": "54.2361",
+      "longitude": "-4.5481"
+    }
+  },
+  "Japan yamagata": {
+    "province": "Yamagata",
+    "coordinates": {
+      "latitude": "38.448396",
+      "longitude": "140.102154"
+    }
+  },
+  "Russia saint petersburg": {
+    "province": "Saint Petersburg",
+    "coordinates": {
+      "latitude": "59.9606739",
+      "longitude": "30.158655100000004"
+    }
+  },
+  "Ukraine kherson oblast": {
+    "province": "Kherson Oblast",
+    "coordinates": {
+      "latitude": "46.6354",
+      "longitude": "32.6169"
+    }
+  },
+  "Peru arequipa": {
+    "province": "Arequipa",
+    "coordinates": {
+      "latitude": "-15.843524",
+      "longitude": "-72.475539"
+    }
+  },
+  "Malawi null": {
+    "coordinates": {
+      "latitude": "-13.2543",
+      "longitude": "34.3015"
+    }
+  },
+  "Russia rostov oblast": {
+    "province": "Rostov Oblast",
+    "coordinates": {
+      "latitude": "47.6222451",
+      "longitude": "40.7957942"
+    }
+  },
+  "Italy piemonte": {
+    "province": "Piemonte",
+    "coordinates": {
+      "latitude": "45.0732745",
+      "longitude": "7.680687483"
+    }
+  },
+  "UK england": {
+    "province": "England",
+    "coordinates": {
+      "latitude": "52.3555",
+      "longitude": "-1.1743"
+    }
+  },
+  "UK null": {
+    "coordinates": {
+      "latitude": "52.3555",
+      "longitude": "-1.1743"
+    }
+  },
+  "United Kingdom": {
+    "coordinates": {
+      "latitude": "52.3555",
+      "longitude": "-1.1743"
+    }
+  },
+  "Canada british columbia": {
+    "province": "British Columbia",
+    "coordinates": {
+      "latitude": "53.7267",
+      "longitude": "-127.6476"
+    }
+  },
+  "Mexico sinaloa": {
+    "province": "Sinaloa",
+    "coordinates": {
+      "latitude": "25.1721",
+      "longitude": "-107.4795"
+    }
+  },
+  "Mexico campeche": {
+    "province": "Campeche",
+    "coordinates": {
+      "latitude": "19.8301",
+      "longitude": "-90.5349"
+    }
+  },
+  "Mexico yucatan": {
+    "province": "Yucatan",
+    "coordinates": {
+      "latitude": "20.7099",
+      "longitude": "-89.0943"
+    }
+  },
+  "France st martin": {
+    "province": "St Martin",
+    "coordinates": {
+      "latitude": "18.0708",
+      "longitude": "-63.0501"
+    }
+  },
+  "US alaska": {
+    "province": "Alaska",
+    "coordinates": {
+      "latitude": "55.32222414",
+      "longitude": "-161.9722021"
+    }
+  },
+  "Japan iwate": {
+    "province": "Iwate",
+    "coordinates": {
+      "latitude": "39.593287",
+      "longitude": "141.361777"
+    }
+  },
+  "Lesotho null": {
+    "coordinates": {
+      "latitude": "-29.61",
+      "longitude": "28.2336"
+    }
+  },
+  "Italy campania": {
+    "province": "Campania",
+    "coordinates": {
+      "latitude": "40.83956555",
+      "longitude": "14.25084984"
+    }
+  },
+  "Lithuania null": {
+    "coordinates": {
+      "latitude": "55.1694",
+      "longitude": "23.8813"
+    }
+  },
+  "Spain canarias": {
+    "province": "Canarias",
+    "coordinates": {
+      "latitude": "28.2916",
+      "longitude": "-16.6291"
+    }
+  },
+  "Colombia cesar": {
+    "province": "Cesar",
+    "coordinates": {
+      "latitude": "9.3373",
+      "longitude": "-73.6536"
+    }
+  },
+  "Guinea null": {
+    "coordinates": {
+      "latitude": "9.9456",
+      "longitude": "-9.6966"
+    }
+  },
+  "Peru tacna": {
+    "province": "Tacna",
+    "coordinates": {
+      "latitude": "-17.644160999999997",
+      "longitude": "-70.27756"
+    }
+  },
+  "China anhui": {
+    "province": "Anhui",
+    "coordinates": {
+      "latitude": "31.8257",
+      "longitude": "117.2264"
+    }
+  },
+  "Brazil amapa": {
+    "province": "Amapa",
+    "coordinates": {
+      "latitude": "0.902",
+      "longitude": "-52.003"
+    }
+  },
+  "Russia mari el republic": {
+    "province": "Mari El Republic",
+    "coordinates": {
+      "latitude": "56.5767504",
+      "longitude": "47.8817512"
+    }
+  },
+  "Mexico san luis potosi": {
+    "province": "San Luis Potosi",
+    "coordinates": {
+      "latitude": "22.1565",
+      "longitude": "-100.9855"
+    }
+  },
+  "Colombia guainia": {
+    "province": "Guainia",
+    "coordinates": {
+      "latitude": "2.5854",
+      "longitude": "-68.5247"
+    }
+  },
+  "China zhejiang": {
+    "province": "Zhejiang",
+    "coordinates": {
+      "latitude": "29.1832",
+      "longitude": "120.0934"
+    }
+  },
+  "Guyana null": {
+    "coordinates": {
+      "latitude": "4.860416000000002",
+      "longitude": "-58.93018000000001"
+    }
+  },
+  "Seychelles null": {
+    "coordinates": {
+      "latitude": "-4.6796",
+      "longitude": "55.492"
+    }
+  },
+  "Ukraine odessa oblast": {
+    "province": "Odessa Oblast",
+    "coordinates": {
+      "latitude": "46.4846",
+      "longitude": "30.7326"
+    }
+  },
+  "Netherlands overijssel": {
+    "province": "Overijssel",
+    "coordinates": {
+      "latitude": "52.444558",
+      "longitude": "6.441722"
+    }
+  },
+  "Netherlands noord-brabant": {
+    "province": "Noord-Brabant",
+    "coordinates": {
+      "latitude": "51.561174",
+      "longitude": "5.184942"
+    }
+  },
+  "Belgium unknown": {
+    "province": "Unknown",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Mexico guerrero": {
+    "province": "Guerrero",
+    "coordinates": {
+      "latitude": "17.4392",
+      "longitude": "-99.5451"
+    }
+  },
+  "Spain ceuta": {
+    "province": "Ceuta",
+    "coordinates": {
+      "latitude": "35.8894",
+      "longitude": "-5.3213"
+    }
+  },
+  "Chile ohiggins": {
+    "province": "OHiggins",
+    "coordinates": {
+      "latitude": "-34.5755",
+      "longitude": "-71.0022"
+    }
+  },
+  "Japan hiroshima": {
+    "province": "Hiroshima",
+    "coordinates": {
+      "latitude": "34.605309000000005",
+      "longitude": "132.788719"
+    }
+  },
+  "Philippines null": {
+    "coordinates": {
+      "latitude": "12.879721",
+      "longitude": "121.774017"
+    }
+  },
+  "Russia kamchatka krai": {
+    "province": "Kamchatka Krai",
+    "coordinates": {
+      "latitude": "57.1914882",
+      "longitude": "160.03838190000005"
+    }
+  },
+  "Brazil rio grande do norte": {
+    "province": "Rio Grande do Norte",
+    "coordinates": {
+      "latitude": "-5.4026",
+      "longitude": "-36.9541"
+    }
+  },
+  "Brazil acre": {
+    "province": "Acre",
+    "coordinates": {
+      "latitude": "-9.0238",
+      "longitude": "-70.812"
+    }
+  },
+  "China sichuan": {
+    "province": "Sichuan",
+    "coordinates": {
+      "latitude": "30.6171",
+      "longitude": "102.7103"
+    }
+  },
+  "Japan okayama": {
+    "province": "Okayama",
+    "coordinates": {
+      "latitude": "34.89246",
+      "longitude": "133.826252"
+    }
+  },
+  "Iran null": {
+    "coordinates": {
+      "latitude": "32.427908",
+      "longitude": "53.68804599999999"
+    }
+  },
+  "Russia ulyanovsk oblast": {
+    "province": "Ulyanovsk Oblast",
+    "coordinates": {
+      "latitude": "54.1463177",
+      "longitude": "47.2324921"
+    }
+  },
+  "US nebraska": {
+    "province": "Nebraska",
+    "coordinates": {
+      "latitude": "40.52449420000001",
+      "longitude": "-98.50117804"
+    }
+  },
+  "Chile los lagos": {
+    "province": "Los Lagos",
+    "coordinates": {
+      "latitude": "-41.9198",
+      "longitude": "-72.1416"
+    }
+  },
+  "Peru lima": {
+    "province": "Lima",
+    "coordinates": {
+      "latitude": "-11.766533",
+      "longitude": "-76.60449799999998"
+    }
+  },
+  "Russia sverdlovsk oblast": {
+    "province": "Sverdlovsk Oblast",
+    "coordinates": {
+      "latitude": "58.6414755",
+      "longitude": "61.8021546"
+    }
+  },
+  "Sweden jonkoping": {
+    "province": "Jonkoping",
+    "coordinates": {
+      "latitude": "57.3708",
+      "longitude": "14.3439"
+    }
+  },
+  "Grenada null": {
+    "coordinates": {
+      "latitude": "12.1165",
+      "longitude": "-61.679"
+    }
+  },
+  "US arkansas": {
+    "province": "Arkansas",
+    "coordinates": {
+      "latitude": "34.29145151",
+      "longitude": "-91.37277296"
+    }
+  },
+  "Russia saratov oblast": {
+    "province": "Saratov Oblast",
+    "coordinates": {
+      "latitude": "51.6520555",
+      "longitude": "46.86319520000001"
+    }
+  },
+  "Sweden gavleborg": {
+    "province": "Gavleborg",
+    "coordinates": {
+      "latitude": "61.3012",
+      "longitude": "16.1534"
+    }
+  },
+  "Belarus null": {
+    "coordinates": {
+      "latitude": "53.7098",
+      "longitude": "27.9534"
+    }
+  },
+  "Brazil amazonas": {
+    "province": "Amazonas",
+    "coordinates": {
+      "latitude": "-3.4168",
+      "longitude": "-65.8561"
+    }
+  },
+  "India puducherry": {
+    "province": "Puducherry",
+    "coordinates": {
+      "latitude": "11.882658",
+      "longitude": "78.86498"
+    }
+  },
+  "Micronesia null": {
+    "coordinates": {
+      "latitude": "7.4256",
+      "longitude": "150.5508"
+    }
+  },
+  "China henan": {
+    "province": "Henan",
+    "coordinates": {
+      "latitude": "33.882",
+      "longitude": "113.614"
+    }
+  },
+  "Brazil tocantins": {
+    "province": "Tocantins",
+    "coordinates": {
+      "latitude": "-10.1753",
+      "longitude": "-48.2982"
+    }
+  },
+  "Mozambique null": {
+    "coordinates": {
+      "latitude": "-18.665695",
+      "longitude": "35.529562"
+    }
+  },
+  "Russia murmansk oblast": {
+    "province": "Murmansk Oblast",
+    "coordinates": {
+      "latitude": "68.00004179999999",
+      "longitude": "33.9999151"
+    }
+  },
+  "Germany baden-wurttemberg": {
+    "province": "Baden-Wurttemberg",
+    "coordinates": {
+      "latitude": "48.6616",
+      "longitude": "9.3501"
+    }
+  },
+  "Japan miyagi": {
+    "province": "Miyagi",
+    "coordinates": {
+      "latitude": "38.446859",
+      "longitude": "140.927086"
+    }
+  },
+  "Serbia null": {
+    "coordinates": {
+      "latitude": "44.0165",
+      "longitude": "21.0059"
+    }
+  },
+  "Italy sardegna": {
+    "province": "Sardegna",
+    "coordinates": {
+      "latitude": "39.21531192",
+      "longitude": "9.110616306"
+    }
+  },
+  "Netherlands zeeland": {
+    "province": "Zeeland",
+    "coordinates": {
+      "latitude": "51.47936",
+      "longitude": "3.861559"
+    }
+  },
+  "Russia volgograd oblast": {
+    "province": "Volgograd Oblast",
+    "coordinates": {
+      "latitude": "49.6048339",
+      "longitude": "44.29035820000001"
+    }
+  },
+  "US wyoming": {
+    "province": "Wyoming",
+    "coordinates": {
+      "latitude": "41.65498705",
+      "longitude": "-105.7235415"
+    }
+  },
+  "Pakistan balochistan": {
+    "province": "Balochistan",
+    "coordinates": {
+      "latitude": "28.328492",
+      "longitude": "65.898403"
+    }
+  },
+  "Latvia null": {
+    "coordinates": {
+      "latitude": "56.8796",
+      "longitude": "24.6032"
+    }
+  },
+  "China guangdong": {
+    "province": "Guangdong",
+    "coordinates": {
+      "latitude": "23.3417",
+      "longitude": "113.4244"
+    }
+  },
+  "Colombia caldas": {
+    "province": "Caldas",
+    "coordinates": {
+      "latitude": "5.2983",
+      "longitude": "-75.2479"
+    }
+  },
+  "Netherlands zuid-holland": {
+    "province": "Zuid-Holland",
+    "coordinates": {
+      "latitude": "51.937835",
+      "longitude": "4.462114"
+    }
+  },
+  "India andaman and nicobar islands": {
+    "province": "Andaman and Nicobar Islands",
+    "coordinates": {
+      "latitude": "11.225999",
+      "longitude": "92.968178"
+    }
+  },
+  "Netherlands gelderland": {
+    "province": "Gelderland",
+    "coordinates": {
+      "latitude": "52.061738",
+      "longitude": "5.939114"
+    }
+  },
+  "Kiribati null": {
+    "coordinates": {
+      "latitude": "-3.3704",
+      "longitude": "-168.734"
+    }
+  },
+  "India telangana": {
+    "province": "Telangana",
+    "coordinates": {
+      "latitude": "18.1124",
+      "longitude": "79.0193"
+    }
+  },
+  "Belgium antwerp": {
+    "province": "Antwerp",
+    "coordinates": {
+      "latitude": "51.2195",
+      "longitude": "4.4024"
+    }
+  },
+  "Mauritania null": {
+    "coordinates": {
+      "latitude": "21.0079",
+      "longitude": "-10.9408"
+    }
+  },
+  "Australia australian capital territory": {
+    "province": "Australian Capital Territory",
+    "coordinates": {
+      "latitude": "-35.4735",
+      "longitude": "149.0124"
+    }
+  },
+  "Ghana null": {
+    "coordinates": {
+      "latitude": "7.9465",
+      "longitude": "-1.0232"
+    }
+  },
+  "Cabo Verde null": {
+    "coordinates": {
+      "latitude": "16.5388",
+      "longitude": "-23.0418"
+    }
+  },
+  "Japan unknown": {
+    "province": "Unknown",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Japan yamanashi": {
+    "province": "Yamanashi",
+    "coordinates": {
+      "latitude": "35.612364",
+      "longitude": "138.61148899999998"
+    }
+  },
+  "Luxembourg null": {
+    "coordinates": {
+      "latitude": "49.8153",
+      "longitude": "6.1296"
+    }
+  },
+  "Russia buryatia republic": {
+    "province": "Buryatia Republic",
+    "coordinates": {
+      "latitude": "52.7182426",
+      "longitude": "109.492143"
+    }
+  },
+  "UK turks and caicos islands": {
+    "province": "Turks and Caicos Islands",
+    "coordinates": {
+      "latitude": "21.694000000000006",
+      "longitude": "-71.7979"
+    }
+  },
+  "Australia victoria": {
+    "province": "Victoria",
+    "coordinates": {
+      "latitude": "-37.8136",
+      "longitude": "144.9631"
+    }
+  },
+  "Bolivia null": {
+    "coordinates": {
+      "latitude": "-16.2902",
+      "longitude": "-63.5887"
+    }
+  },
+  "Chile biobio": {
+    "province": "Biobio",
+    "coordinates": {
+      "latitude": "-37.4464",
+      "longitude": "-72.1416"
+    }
+  },
+  "Russia khakassia republic": {
+    "province": "Khakassia Republic",
+    "coordinates": {
+      "latitude": "53.72258845",
+      "longitude": "91.44293627"
+    }
+  },
+  "US iowa": {
+    "province": "Iowa",
+    "coordinates": {
+      "latitude": "41.33075609",
+      "longitude": "-94.47105874"
+    }
+  },
+  "Japan shimane": {
+    "province": "Shimane",
+    "coordinates": {
+      "latitude": "35.07076",
+      "longitude": "132.55406399999998"
+    }
+  },
+  "Equatorial Guinea null": {
+    "coordinates": {
+      "latitude": "1.6508",
+      "longitude": "10.2679"
+    }
+  },
+  "US connecticut": {
+    "province": "Connecticut",
+    "coordinates": {
+      "latitude": "41.26809896",
+      "longitude": "-73.3881171"
+    }
+  },
+  "US recovered": {
+    "province": "Recovered",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Colombia narino": {
+    "province": "Narino",
+    "coordinates": {
+      "latitude": "1.2892",
+      "longitude": "-77.3579"
+    }
+  },
+  "Spain baleares": {
+    "province": "Baleares",
+    "coordinates": {
+      "latitude": "39.710358",
+      "longitude": "2.995148"
+    }
+  },
+  "Colombia la guajira": {
+    "province": "La Guajira",
+    "coordinates": {
+      "latitude": "11.3548",
+      "longitude": "-72.5205"
+    }
+  },
+  "Chile atacama": {
+    "province": "Atacama",
+    "coordinates": {
+      "latitude": "-27.5661",
+      "longitude": "-70.0503"
+    }
+  },
+  "India odisha": {
+    "province": "Odisha",
+    "coordinates": {
+      "latitude": "20.505428",
+      "longitude": "84.418059"
+    }
+  },
+  "Belgium flemish brabant": {
+    "province": "Flemish Brabant",
+    "coordinates": {
+      "latitude": "50.9167",
+      "longitude": "4.5833"
+    }
+  },
+  "Holy See null": {
+    "coordinates": {
+      "latitude": "41.9029",
+      "longitude": "12.4534"
+    }
+  },
+  "Peru huanuco": {
+    "province": "Huanuco",
+    "coordinates": {
+      "latitude": "-9.421676",
+      "longitude": "-76.040642"
+    }
+  },
+  "Moldova null": {
+    "coordinates": {
+      "latitude": "47.4116",
+      "longitude": "28.3699"
+    }
+  },
+  "Saint Vincent and the Grenadines null": {
+    "coordinates": {
+      "latitude": "12.9843",
+      "longitude": "-61.2872"
+    }
+  },
+  "Sudan null": {
+    "coordinates": {
+      "latitude": "12.8628",
+      "longitude": "30.2176"
+    }
+  },
+  "Sweden norrbotten": {
+    "province": "Norrbotten",
+    "coordinates": {
+      "latitude": "66.8309",
+      "longitude": "20.3992"
+    }
+  },
+  "Bulgaria null": {
+    "coordinates": {
+      "latitude": "42.7339",
+      "longitude": "25.4858"
+    }
+  },
+  "Canada grand princess": {
+    "province": "Grand Princess",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "US idaho": {
+    "province": "Idaho",
+    "coordinates": {
+      "latitude": "43.4526575",
+      "longitude": "-116.24155159999998"
+    }
+  },
+  "Peru cusco": {
+    "province": "Cusco",
+    "coordinates": {
+      "latitude": "-13.191068",
+      "longitude": "-72.153609"
+    }
+  },
+  "Russia sakha (yakutiya) republic": {
+    "province": "Sakha (Yakutiya) Republic",
+    "coordinates": {
+      "latitude": "66.941626",
+      "longitude": "129.642371"
+    }
+  },
+  "China inner mongolia": {
+    "province": "Inner Mongolia",
+    "coordinates": {
+      "latitude": "44.0935",
+      "longitude": "113.9448"
+    }
+  },
+  "Peru moquegua": {
+    "province": "Moquegua",
+    "coordinates": {
+      "latitude": "-16.860271",
+      "longitude": "-70.839046"
+    }
+  },
+  "Netherlands bonaire, sint eustatius and saba": {
+    "province": "Bonaire, Sint Eustatius and Saba",
+    "coordinates": {
+      "latitude": "12.1784",
+      "longitude": "-68.2385"
+    }
+  },
+  "Spain galicia": {
+    "province": "Galicia",
+    "coordinates": {
+      "latitude": "42.5751",
+      "longitude": "-8.1339"
+    }
+  },
+  "US south dakota": {
+    "province": "South Dakota",
+    "coordinates": {
+      "latitude": "43.71757685",
+      "longitude": "-98.56050467"
+    }
+  },
+  "Turkey null": {
+    "coordinates": {
+      "latitude": "38.9637",
+      "longitude": "35.2433"
+    }
+  },
+  "Eritrea null": {
+    "coordinates": {
+      "latitude": "15.1794",
+      "longitude": "39.7823"
+    }
+  },
+  "Russia samara oblast": {
+    "province": "Samara Oblast",
+    "coordinates": {
+      "latitude": "53.2128813",
+      "longitude": "50.8914633"
+    }
+  },
+  "India bihar": {
+    "province": "Bihar",
+    "coordinates": {
+      "latitude": "25.679658",
+      "longitude": "85.60484"
+    }
+  },
+  "Monaco null": {
+    "coordinates": {
+      "latitude": "43.7333",
+      "longitude": "7.4167"
+    }
+  },
+  "Ukraine chernihiv oblast": {
+    "province": "Chernihiv Oblast",
+    "coordinates": {
+      "latitude": "51.4982",
+      "longitude": "31.2893"
+    }
+  },
+  "US alabama": {
+    "province": "Alabama",
+    "coordinates": {
+      "latitude": "32.53952745",
+      "longitude": "-86.64408227"
+    }
+  },
+  "Mexico nuevo leon": {
+    "province": "Nuevo Leon",
+    "coordinates": {
+      "latitude": "25.5922",
+      "longitude": "-99.9962"
+    }
+  },
+  "Tajikistan null": {
+    "coordinates": {
+      "latitude": "38.861",
+      "longitude": "71.2761"
+    }
+  },
+  "Italy p.a. trento": {
+    "province": "P.A. Trento",
+    "coordinates": {
+      "latitude": "46.06893511",
+      "longitude": "11.12123097"
+    }
+  },
+  "China shaanxi": {
+    "province": "Shaanxi",
+    "coordinates": {
+      "latitude": "35.1917",
+      "longitude": "108.8701"
+    }
+  },
+  "Brazil espirito santo": {
+    "province": "Espirito Santo",
+    "coordinates": {
+      "latitude": "-19.1834",
+      "longitude": "-40.3089"
+    }
+  },
+  "Peru san martin": {
+    "province": "San Martin",
+    "coordinates": {
+      "latitude": "-7.039531",
+      "longitude": "-76.729127"
+    }
+  },
+  "India andhra pradesh": {
+    "province": "Andhra Pradesh",
+    "coordinates": {
+      "latitude": "15.9129",
+      "longitude": "79.74"
+    }
+  },
+  "Japan miyazaki": {
+    "province": "Miyazaki",
+    "coordinates": {
+      "latitude": "32.193203999999994",
+      "longitude": "131.299374"
+    }
+  },
+  "Dominican Republic null": {
+    "coordinates": {
+      "latitude": "18.7357",
+      "longitude": "-70.1627"
+    }
+  },
+  "DRC null": {
+    "coordinates": {
+      "latitude": "18.7357",
+      "longitude": "-70.1627"
+    }
+  },
+  "Netherlands curacao": {
+    "province": "Curacao",
+    "coordinates": {
+      "latitude": "12.1696",
+      "longitude": "-68.99"
+    }
+  },
+  "Mexico coahuila": {
+    "province": "Coahuila",
+    "coordinates": {
+      "latitude": "27.0587",
+      "longitude": "-101.7068"
+    }
+  },
+  "India sikkim": {
+    "province": "Sikkim",
+    "coordinates": {
+      "latitude": "27.571671",
+      "longitude": "88.472712"
+    }
+  },
+  "Sweden vastra gotaland": {
+    "province": "Vastra Gotaland",
+    "coordinates": {
+      "latitude": "58.2528",
+      "longitude": "13.0596"
+    }
+  },
+  "India arunachal pradesh": {
+    "province": "Arunachal Pradesh",
+    "coordinates": {
+      "latitude": "27.768456",
+      "longitude": "96.384277"
+    }
+  },
+  "Spain extremadura": {
+    "province": "Extremadura",
+    "coordinates": {
+      "latitude": "39.4937",
+      "longitude": "-6.0679"
+    }
+  },
+  "Spain pais vasco": {
+    "province": "Pais Vasco",
+    "coordinates": {
+      "latitude": "42.9896",
+      "longitude": "-2.6189"
+    }
+  },
+  "Brazil distrito federal": {
+    "province": "Distrito Federal",
+    "coordinates": {
+      "latitude": "-15.7998",
+      "longitude": "-47.8645"
+    }
+  },
+  "Netherlands groningen": {
+    "province": "Groningen",
+    "coordinates": {
+      "latitude": "53.217922",
+      "longitude": "6.741514"
+    }
+  },
+  "US texas": {
+    "province": "Texas",
+    "coordinates": {
+      "latitude": "31.81534745",
+      "longitude": "-95.65354823"
+    }
+  },
+  "Italy marche": {
+    "province": "Marche",
+    "coordinates": {
+      "latitude": "43.61675973",
+      "longitude": "13.5188753"
+    }
+  },
+  "Chile antofagasta": {
+    "province": "Antofagasta",
+    "coordinates": {
+      "latitude": "-23.6509",
+      "longitude": "-70.3975"
+    }
+  },
+  "Colombia capital district": {
+    "province": "Capital District",
+    "coordinates": {
+      "latitude": "4.711",
+      "longitude": "-74.0721"
+    }
+  },
+  "Ukraine khmelnytskyi oblast": {
+    "province": "Khmelnytskyi Oblast",
+    "coordinates": {
+      "latitude": "49.423",
+      "longitude": "26.9871"
+    }
+  },
+  "Russia udmurt republic": {
+    "province": "Udmurt Republic",
+    "coordinates": {
+      "latitude": "57.1961165",
+      "longitude": "52.69598320000001"
+    }
+  },
+  "Fiji null": {
+    "coordinates": {
+      "latitude": "-17.7134",
+      "longitude": "178.065"
+    }
+  },
+  "Brazil piaui": {
+    "province": "Piaui",
+    "coordinates": {
+      "latitude": "-7.7183",
+      "longitude": "-42.7289"
+    }
+  },
+  "Italy sicilia": {
+    "province": "Sicilia",
+    "coordinates": {
+      "latitude": "38.11569725",
+      "longitude": "13.362356699999998"
+    }
+  },
+  "US district of columbia": {
+    "province": "District of Columbia",
+    "coordinates": {
+      "latitude": "38.90417773",
+      "longitude": "-77.01655992"
+    }
+  },
+  "US wisconsin": {
+    "province": "Wisconsin",
+    "coordinates": {
+      "latitude": "43.96974651",
+      "longitude": "-89.76782777"
+    }
+  },
+  "US diamond princess": {
+    "province": "Diamond Princess",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "US oklahoma": {
+    "province": "Oklahoma",
+    "coordinates": {
+      "latitude": "35.88494195",
+      "longitude": "-94.65859267"
+    }
+  },
+  "Japan okinawa": {
+    "province": "Okinawa",
+    "coordinates": {
+      "latitude": "25.768923",
+      "longitude": "126.668016"
+    }
+  },
+  "Denmark faroe islands": {
+    "province": "Faroe Islands",
+    "coordinates": {
+      "latitude": "61.8926",
+      "longitude": "-6.9118"
+    }
+  },
+  "Ukraine luhansk oblast": {
+    "province": "Luhansk Oblast",
+    "coordinates": {
+      "latitude": "48.574",
+      "longitude": "39.3078"
+    }
+  },
+  "Estonia null": {
+    "coordinates": {
+      "latitude": "58.5953",
+      "longitude": "25.0136"
+    }
+  },
+  "Mexico colima": {
+    "province": "Colima",
+    "coordinates": {
+      "latitude": "19.1223",
+      "longitude": "-104.0072"
+    }
+  },
+  "Mexico mexico": {
+    "province": "Mexico",
+    "coordinates": {
+      "latitude": "19.4969",
+      "longitude": "-99.7233"
+    }
+  },
+  "Diamond Princess null": {
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Italy abruzzo": {
+    "province": "Abruzzo",
+    "coordinates": {
+      "latitude": "42.35122196",
+      "longitude": "13.39843823"
+    }
+  },
+  "Sweden halland": {
+    "province": "Halland",
+    "coordinates": {
+      "latitude": "56.8967",
+      "longitude": "12.8034"
+    }
+  },
+  "Germany schleswig-holstein": {
+    "province": "Schleswig-Holstein",
+    "coordinates": {
+      "latitude": "54.2194",
+      "longitude": "9.6961"
+    }
+  },
+  "Mexico hidalgo": {
+    "province": "Hidalgo",
+    "coordinates": {
+      "latitude": "20.0911",
+      "longitude": "-98.7624"
+    }
+  },
+  "Japan nagano": {
+    "province": "Nagano",
+    "coordinates": {
+      "latitude": "36.132134",
+      "longitude": "138.045528"
+    }
+  },
+  "Djibouti null": {
+    "coordinates": {
+      "latitude": "11.8251",
+      "longitude": "42.5903"
+    }
+  },
+  "Singapore null": {
+    "coordinates": {
+      "latitude": "1.2833",
+      "longitude": "103.8333"
+    }
+  },
+  "Ukraine ivano-frankivsk oblast": {
+    "province": "Ivano-Frankivsk Oblast",
+    "coordinates": {
+      "latitude": "48.9226",
+      "longitude": "24.7111"
+    }
+  },
+  "India ladakh": {
+    "province": "Ladakh",
+    "coordinates": {
+      "latitude": "34.1526",
+      "longitude": "77.5771"
+    }
+  },
+  "Nicaragua null": {
+    "coordinates": {
+      "latitude": "12.865416",
+      "longitude": "-85.207229"
+    }
+  },
+  "Peru ayacucho": {
+    "province": "Ayacucho",
+    "coordinates": {
+      "latitude": "-14.091648",
+      "longitude": "-74.08344"
+    }
+  },
+  "US indiana": {
+    "province": "Indiana",
+    "coordinates": {
+      "latitude": "40.7457653",
+      "longitude": "-84.93671406"
+    }
+  },
+  "Barbados null": {
+    "coordinates": {
+      "latitude": "13.1939",
+      "longitude": "-59.5432"
+    }
+  },
+  "India chandigarh": {
+    "province": "Chandigarh",
+    "coordinates": {
+      "latitude": "30.733839",
+      "longitude": "76.76827800000002"
+    }
+  },
+  "Mexico oaxaca": {
+    "province": "Oaxaca",
+    "coordinates": {
+      "latitude": "17.0732",
+      "longitude": "-96.7266"
+    }
+  },
+  "Egypt null": {
+    "coordinates": {
+      "latitude": "26.820553000000004",
+      "longitude": "30.802498"
+    }
+  },
+  "Canada nunavut": {
+    "province": "Nunavut",
+    "coordinates": {
+      "latitude": "70.2998",
+      "longitude": "-83.1076"
+    }
+  },
+  "Colombia quindio": {
+    "province": "Quindio",
+    "coordinates": {
+      "latitude": "4.461",
+      "longitude": "-75.6674"
+    }
+  },
+  "Russia chukotka autonomous okrug": {
+    "province": "Chukotka Autonomous Okrug",
+    "coordinates": {
+      "latitude": "66.0006475",
+      "longitude": "169.4900869"
+    }
+  },
+  "Colombia vaupes": {
+    "province": "Vaupes",
+    "coordinates": {
+      "latitude": "0.8554",
+      "longitude": "-70.812"
+    }
+  },
+  "Denmark greenland": {
+    "province": "Greenland",
+    "coordinates": {
+      "latitude": "71.7069",
+      "longitude": "-42.6043"
+    }
+  },
+  "Ukraine ternopil oblast": {
+    "province": "Ternopil Oblast",
+    "coordinates": {
+      "latitude": "49.5535",
+      "longitude": "25.5948"
+    }
+  },
+  "Japan ibaraki": {
+    "province": "Ibaraki",
+    "coordinates": {
+      "latitude": "36.303588",
+      "longitude": "140.319591"
+    }
+  },
+  "Australia western australia": {
+    "province": "Western Australia",
+    "coordinates": {
+      "latitude": "-31.9505",
+      "longitude": "115.8605"
+    }
+  },
+  "Canada alberta": {
+    "province": "Alberta",
+    "coordinates": {
+      "latitude": "53.9333",
+      "longitude": "-116.5765"
+    }
+  },
+  "Pakistan gilgit-baltistan": {
+    "province": "Gilgit-Baltistan",
+    "coordinates": {
+      "latitude": "35.792146",
+      "longitude": "74.982138"
+    }
+  },
+  "France reunion": {
+    "province": "Reunion",
+    "coordinates": {
+      "latitude": "-21.1151",
+      "longitude": "55.5364"
+    }
+  },
+  "Syria null": {
+    "coordinates": {
+      "latitude": "34.802075",
+      "longitude": "38.99681500000001"
+    }
+  },
+  "Syrian Arab Republic null": {
+    "coordinates": {
+      "latitude": "34.802075",
+      "longitude": "38.99681500000001"
+    }
+  },
+  "Colombia sucre": {
+    "province": "Sucre",
+    "coordinates": {
+      "latitude": "8.814",
+      "longitude": "-74.7233"
+    }
+  },
+  "Belgium east flanders": {
+    "province": "East Flanders",
+    "coordinates": {
+      "latitude": "51.0362",
+      "longitude": "3.7373"
+    }
+  },
+  "Netherlands noord-holland": {
+    "province": "Noord-Holland",
+    "coordinates": {
+      "latitude": "52.60090600000001",
+      "longitude": "4.918688"
+    }
+  },
+  "Peru tumbes": {
+    "province": "Tumbes",
+    "coordinates": {
+      "latitude": "-3.857496",
+      "longitude": "-80.54525500000003"
+    }
+  },
+  "Sweden vastmanland": {
+    "province": "Vastmanland",
+    "coordinates": {
+      "latitude": "59.6714",
+      "longitude": "16.2159"
+    }
+  },
+  "Colombia caqueta": {
+    "province": "Caqueta",
+    "coordinates": {
+      "latitude": "0.8699",
+      "longitude": "-73.8419"
+    }
+  },
+  "Spain melilla": {
+    "province": "Melilla",
+    "coordinates": {
+      "latitude": "35.2923",
+      "longitude": "-2.9381"
+    }
+  },
+  "Sierra Leone null": {
+    "coordinates": {
+      "latitude": "8.460555000000001",
+      "longitude": "-11.779889"
+    }
+  },
+  "China chongqing": {
+    "province": "Chongqing",
+    "coordinates": {
+      "latitude": "30.0572",
+      "longitude": "107.874"
+    }
+  },
+  "India lakshadweep": {
+    "province": "Lakshadweep",
+    "coordinates": {
+      "latitude": "13.6999972",
+      "longitude": "72.18333259999999"
+    }
+  },
+  "US virgin islands": {
+    "province": "Virgin Islands",
+    "coordinates": {
+      "latitude": "18.3358",
+      "longitude": "-64.8963"
+    }
+  },
+  "Austria null": {
+    "coordinates": {
+      "latitude": "47.5162",
+      "longitude": "14.5501"
+    }
+  },
+  "Peru ica": {
+    "province": "Ica",
+    "coordinates": {
+      "latitude": "-14.235097",
+      "longitude": "-75.574821"
+    }
+  },
+  "Colombia valle del cauca": {
+    "province": "Valle del Cauca",
+    "coordinates": {
+      "latitude": "3.8009",
+      "longitude": "-76.6413"
+    }
+  },
+  "US utah": {
+    "province": "Utah",
+    "coordinates": {
+      "latitude": "41.52106798",
+      "longitude": "-113.0832816"
+    }
+  },
+  "US grand princess": {
+    "province": "Grand Princess",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Russia lipetsk oblast": {
+    "province": "Lipetsk Oblast",
+    "coordinates": {
+      "latitude": "52.6935178",
+      "longitude": "39.1122664"
+    }
+  },
+  "US oregon": {
+    "province": "Oregon",
+    "coordinates": {
+      "latitude": "44.70915557",
+      "longitude": "-117.6749883"
+    }
+  },
+  "Colombia meta": {
+    "province": "Meta",
+    "coordinates": {
+      "latitude": "3.272",
+      "longitude": "-73.0877"
+    }
+  },
+  "France saint pierre and miquelon": {
+    "province": "Saint Pierre and Miquelon",
+    "coordinates": {
+      "latitude": "46.8852",
+      "longitude": "-56.3159"
+    }
+  },
+  "Chile unknown": {
+    "province": "Unknown",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Germany nordrhein-westfalen": {
+    "province": "Nordrhein-Westfalen",
+    "coordinates": {
+      "latitude": "51.4332",
+      "longitude": "7.6616"
+    }
+  },
+  "Timor-Leste null": {
+    "coordinates": {
+      "latitude": "-8.874217",
+      "longitude": "125.727539"
+    }
+  },
+  "Italy liguria": {
+    "province": "Liguria",
+    "coordinates": {
+      "latitude": "44.41149315",
+      "longitude": "8.9326992"
+    }
+  },
+  "Suriname null": {
+    "coordinates": {
+      "latitude": "3.9193",
+      "longitude": "-56.0278"
+    }
+  },
+  "Canada ontario": {
+    "province": "Ontario",
+    "coordinates": {
+      "latitude": "51.2538",
+      "longitude": "-85.3232"
+    }
+  },
+  "Russia north ossetia - alania republic": {
+    "province": "North Ossetia - Alania Republic",
+    "coordinates": {
+      "latitude": "42.79336110000001",
+      "longitude": "44.6324493"
+    }
+  },
+  "Poland null": {
+    "coordinates": {
+      "latitude": "51.9194",
+      "longitude": "19.1451"
+    }
+  },
+  "South Sudan null": {
+    "coordinates": {
+      "latitude": "6.877000000000002",
+      "longitude": "31.307"
+    }
+  },
+  "Yemen null": {
+    "coordinates": {
+      "latitude": "15.552727",
+      "longitude": "48.516388"
+    }
+  },
+  "Japan oita": {
+    "province": "Oita",
+    "coordinates": {
+      "latitude": "33.200697",
+      "longitude": "131.43323999999998"
+    }
+  },
+  "Italy lazio": {
+    "province": "Lazio",
+    "coordinates": {
+      "latitude": "41.89277044",
+      "longitude": "12.48366722"
+    }
+  },
+  "US georgia": {
+    "province": "Georgia",
+    "coordinates": {
+      "latitude": "31.74847232",
+      "longitude": "-82.28909114"
+    }
+  },
+  "Netherlands limburg": {
+    "province": "Limburg",
+    "coordinates": {
+      "latitude": "51.209227",
+      "longitude": "5.93387"
+    }
+  },
+  "Iceland null": {
+    "coordinates": {
+      "latitude": "64.9631",
+      "longitude": "-19.0208"
+    }
+  },
+  "Malaysia null": {
+    "coordinates": {
+      "latitude": "4.210483999999999",
+      "longitude": "101.975766"
+    }
+  },
+  "Spain unknown": {
+    "province": "Unknown",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Russia moscow": {
+    "province": "Moscow",
+    "coordinates": {
+      "latitude": "55.7504461",
+      "longitude": "37.6174943"
+    }
+  },
+  "Spain catalonia": {
+    "province": "Catalonia",
+    "coordinates": {
+      "latitude": "41.5912",
+      "longitude": "1.5209"
+    }
+  },
+  "Greece null": {
+    "coordinates": {
+      "latitude": "39.0742",
+      "longitude": "21.8243"
+    }
+  },
+  "Russia kaluga oblast": {
+    "province": "Kaluga Oblast",
+    "coordinates": {
+      "latitude": "54.4382773",
+      "longitude": "35.5272854"
+    }
+  },
+  "Pakistan azad jammu and kashmir": {
+    "province": "Azad Jammu and Kashmir",
+    "coordinates": {
+      "latitude": "34.027401",
+      "longitude": "73.947253"
+    }
+  },
+  "US kansas": {
+    "province": "Kansas",
+    "coordinates": {
+      "latitude": "37.88582951",
+      "longitude": "-95.30030847"
+    }
+  },
+  "Japan aomori": {
+    "province": "Aomori",
+    "coordinates": {
+      "latitude": "40.781541",
+      "longitude": "140.828896"
+    }
+  },
+  "Russia magadan oblast": {
+    "province": "Magadan Oblast",
+    "coordinates": {
+      "latitude": "62.48858785",
+      "longitude": "153.9903764"
+    }
+  },
+  "Mexico puebla": {
+    "province": "Puebla",
+    "coordinates": {
+      "latitude": "19.0414",
+      "longitude": "-98.2063"
+    }
+  },
+  "Ukraine chernivtsi oblast": {
+    "province": "Chernivtsi Oblast",
+    "coordinates": {
+      "latitude": "48.2917",
+      "longitude": "25.9352"
+    }
+  },
+  "Belgium brussels": {
+    "province": "Brussels",
+    "coordinates": {
+      "latitude": "50.8503",
+      "longitude": "4.3517"
+    }
+  },
+  "Italy toscana": {
+    "province": "Toscana",
+    "coordinates": {
+      "latitude": "43.76923077",
+      "longitude": "11.25588885"
+    }
+  },
+  "Italy valle d'aosta": {
+    "province": "Valle d'Aosta",
+    "coordinates": {
+      "latitude": "45.73750286",
+      "longitude": "7.320149366"
+    }
+  },
+  "Canada yukon": {
+    "province": "Yukon",
+    "coordinates": {
+      "latitude": "64.2823",
+      "longitude": "-135.0"
+    }
+  },
+  "Colombia casanare": {
+    "province": "Casanare",
+    "coordinates": {
+      "latitude": "5.7589",
+      "longitude": "-71.5724"
+    }
+  },
+  "Bhutan null": {
+    "coordinates": {
+      "latitude": "27.5142",
+      "longitude": "90.4336"
+    }
+  },
+  "Japan mie": {
+    "province": "Mie",
+    "coordinates": {
+      "latitude": "34.508018",
+      "longitude": "136.376013"
+    }
+  },
+  "Germany niedersachsen": {
+    "province": "Niedersachsen",
+    "coordinates": {
+      "latitude": "52.6367",
+      "longitude": "9.8451"
+    }
+  },
+  "Mexico tlaxcala": {
+    "province": "Tlaxcala",
+    "coordinates": {
+      "latitude": "19.3139",
+      "longitude": "-98.2404"
+    }
+  },
+  "US colorado": {
+    "province": "Colorado",
+    "coordinates": {
+      "latitude": "39.87432092",
+      "longitude": "-104.3362578"
+    }
+  },
+  "Burkina Faso null": {
+    "coordinates": {
+      "latitude": "12.2383",
+      "longitude": "-1.5616"
+    }
+  },
+  "Nigeria null": {
+    "coordinates": {
+      "latitude": "9.082",
+      "longitude": "8.6753"
+    }
+  },
+  "US new york": {
+    "province": "New York",
+    "coordinates": {
+      "latitude": "42.60060306",
+      "longitude": "-73.97723916"
+    }
+  },
+  "Russia orenburg oblast": {
+    "province": "Orenburg Oblast",
+    "coordinates": {
+      "latitude": "52.02692620000001",
+      "longitude": "54.7276647"
+    }
+  },
+  "Chile aysen": {
+    "province": "Aysen",
+    "coordinates": {
+      "latitude": "-45.9864",
+      "longitude": "-73.7669"
+    }
+  },
+  "India tamil nadu": {
+    "province": "Tamil Nadu",
+    "coordinates": {
+      "latitude": "11.006091",
+      "longitude": "78.400624"
+    }
+  },
+  "Cyprus null": {
+    "coordinates": {
+      "latitude": "35.1264",
+      "longitude": "33.4299"
+    }
+  },
+  "Japan yamaguchi": {
+    "province": "Yamaguchi",
+    "coordinates": {
+      "latitude": "34.201190000000004",
+      "longitude": "131.573293"
+    }
+  },
+  "Germany hamburg": {
+    "province": "Hamburg",
+    "coordinates": {
+      "latitude": "53.5511",
+      "longitude": "9.9937"
+    }
+  },
+  "Russia kaliningrad oblast": {
+    "province": "Kaliningrad Oblast",
+    "coordinates": {
+      "latitude": "54.7293041",
+      "longitude": "21.1489473"
+    }
+  },
+  "China heilongjiang": {
+    "province": "Heilongjiang",
+    "coordinates": {
+      "latitude": "47.862",
+      "longitude": "127.7615"
+    }
+  },
+  "Trinidad and Tobago null": {
+    "coordinates": {
+      "latitude": "10.6918",
+      "longitude": "-61.2225"
+    }
+  },
+  "Central African Republic null": {
+    "coordinates": {
+      "latitude": "6.6111",
+      "longitude": "20.9394"
+    }
+  },
+  "Papua New Guinea null": {
+    "coordinates": {
+      "latitude": "-6.314993",
+      "longitude": "143.95555"
+    }
+  },
+  "Italy puglia": {
+    "province": "Puglia",
+    "coordinates": {
+      "latitude": "41.12559576",
+      "longitude": "16.86736689"
+    }
+  },
+  "UK channel islands": {
+    "province": "Channel Islands",
+    "coordinates": {
+      "latitude": "49.3723",
+      "longitude": "-2.3644"
+    }
+  },
+  "Saudi Arabia null": {
+    "coordinates": {
+      "latitude": "23.885942",
+      "longitude": "45.079162"
+    }
+  },
+  "Zambia null": {
+    "coordinates": {
+      "latitude": "-13.133897",
+      "longitude": "27.849332"
+    }
+  },
+  "Colombia cordoba": {
+    "province": "Cordoba",
+    "coordinates": {
+      "latitude": "8.0493",
+      "longitude": "-75.574"
+    }
+  },
+  "Colombia san andres y providencia": {
+    "province": "San Andres y Providencia",
+    "coordinates": {
+      "latitude": "12.5567",
+      "longitude": "-81.7185"
+    }
+  },
+  "China hainan": {
+    "province": "Hainan",
+    "coordinates": {
+      "latitude": "19.1959",
+      "longitude": "109.7453"
+    }
+  },
+  "France french guiana": {
+    "province": "French Guiana",
+    "coordinates": {
+      "latitude": "4.0",
+      "longitude": "-53.0"
+    }
+  },
+  "Japan shiga": {
+    "province": "Shiga",
+    "coordinates": {
+      "latitude": "35.21582700000001",
+      "longitude": "136.138064"
+    }
+  },
+  "Japan fukushima": {
+    "province": "Fukushima",
+    "coordinates": {
+      "latitude": "37.378867",
+      "longitude": "140.223295"
+    }
+  },
+  "Brazil maranhao": {
+    "province": "Maranhao",
+    "coordinates": {
+      "latitude": "-4.9609",
+      "longitude": "-45.2744"
+    }
+  },
+  "Russia sakhalin oblast": {
+    "province": "Sakhalin Oblast",
+    "coordinates": {
+      "latitude": "49.7219665",
+      "longitude": "143.448533"
+    }
+  },
+  "France guadeloupe": {
+    "province": "Guadeloupe",
+    "coordinates": {
+      "latitude": "16.265",
+      "longitude": "-61.551"
+    }
+  },
+  "Uganda null": {
+    "coordinates": {
+      "latitude": "1.373333",
+      "longitude": "32.290275"
+    }
+  },
+  "Spain castilla - la mancha": {
+    "province": "Castilla - La Mancha",
+    "coordinates": {
+      "latitude": "39.2796",
+      "longitude": "-3.0977"
+    }
+  },
+  "Congo null": {
+    "coordinates": {
+      "latitude": "-4.0383",
+      "longitude": "21.7587"
+    }
+  },
+  "Mongolia null": {
+    "coordinates": {
+      "latitude": "46.8625",
+      "longitude": "103.8467"
+    }
+  },
+  "Ukraine kiev oblast": {
+    "province": "Kiev Oblast",
+    "coordinates": {
+      "latitude": "50.053",
+      "longitude": "30.7667"
+    }
+  },
+  "Peru unknown": {
+    "province": "Unknown",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "India chhattisgarh": {
+    "province": "Chhattisgarh",
+    "coordinates": {
+      "latitude": "21.264705",
+      "longitude": "82.035366"
+    }
+  },
+  "Russia chelyabinsk oblast": {
+    "province": "Chelyabinsk Oblast",
+    "coordinates": {
+      "latitude": "54.4223954",
+      "longitude": "61.1865846"
+    }
+  },
+  "Mexico michoacan": {
+    "province": "Michoacan",
+    "coordinates": {
+      "latitude": "19.5665",
+      "longitude": "-101.7068"
+    }
+  },
+  "Peru piura": {
+    "province": "Piura",
+    "coordinates": {
+      "latitude": "-5.133361",
+      "longitude": "-80.335861"
+    }
+  },
+  "Mexico zacatecas": {
+    "province": "Zacatecas",
+    "coordinates": {
+      "latitude": "22.7709",
+      "longitude": "-102.5832"
+    }
+  },
+  "Sweden blekinge": {
+    "province": "Blekinge",
+    "coordinates": {
+      "latitude": "56.2784",
+      "longitude": "15.018"
+    }
+  },
+  "Ukraine volyn oblast": {
+    "province": "Volyn Oblast",
+    "coordinates": {
+      "latitude": "50.7472",
+      "longitude": "25.3254"
+    }
+  },
+  "Germany unknown": {
+    "province": "Unknown",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Russia dagestan republic": {
+    "province": "Dagestan Republic",
+    "coordinates": {
+      "latitude": "43.05749160000001",
+      "longitude": "47.1332224"
+    }
+  },
+  "Belgium walloon brabant": {
+    "province": "Walloon Brabant",
+    "coordinates": {
+      "latitude": "50.4",
+      "longitude": "4.35"
+    }
+  },
+  "Italy emilia-romagna": {
+    "province": "Emilia-Romagna",
+    "coordinates": {
+      "latitude": "44.49436681",
+      "longitude": "11.3417208"
+    }
+  },
+  "Venezuela null": {
+    "coordinates": {
+      "latitude": "6.4238",
+      "longitude": "-66.5897"
+    }
+  },
+  "Brazil rio de janeiro": {
+    "province": "Rio de Janeiro",
+    "coordinates": {
+      "latitude": "-22.9068",
+      "longitude": "-43.1729"
+    }
+  },
+  "Peru ancash": {
+    "province": "Ancash",
+    "coordinates": {
+      "latitude": "-9.407125",
+      "longitude": "-77.67179499999997"
+    }
+  },
+  "Solomon Islands null": {
+    "coordinates": {
+      "latitude": "-9.6457",
+      "longitude": "160.1562"
+    }
+  },
+  "Mexico durango": {
+    "province": "Durango",
+    "coordinates": {
+      "latitude": "24.5593",
+      "longitude": "-104.6588"
+    }
+  },
+  "Japan shizuoka": {
+    "province": "Shizuoka",
+    "coordinates": {
+      "latitude": "34.916975",
+      "longitude": "138.40778400000002"
+    }
+  },
+  "Bangladesh null": {
+    "coordinates": {
+      "latitude": "23.685",
+      "longitude": "90.3563"
+    }
+  },
+  "Finland null": {
+    "coordinates": {
+      "latitude": "61.92411",
+      "longitude": "25.748151"
+    }
+  },
+  "Japan gifu": {
+    "province": "Gifu",
+    "coordinates": {
+      "latitude": "35.778671",
+      "longitude": "137.055925"
+    }
+  },
+  "China fujian": {
+    "province": "Fujian",
+    "coordinates": {
+      "latitude": "26.0789",
+      "longitude": "117.9874"
+    }
+  },
+  "Japan ishikawa": {
+    "province": "Ishikawa",
+    "coordinates": {
+      "latitude": "36.769464",
+      "longitude": "136.771027"
+    }
+  },
+  "Colombia tolima": {
+    "province": "Tolima",
+    "coordinates": {
+      "latitude": "4.0925",
+      "longitude": "-75.1545"
+    }
+  },
+  "Azerbaijan null": {
+    "coordinates": {
+      "latitude": "40.1431",
+      "longitude": "47.5769"
+    }
+  },
+  "Russia tyva republic": {
+    "province": "Tyva Republic",
+    "coordinates": {
+      "latitude": "51.4017149",
+      "longitude": "93.8582593"
+    }
+  },
+  "West Bank and Gaza null": {
+    "coordinates": {
+      "latitude": "31.9522",
+      "longitude": "35.2332"
+    }
+  },
+  "Russia bashkortostan republic": {
+    "province": "Bashkortostan Republic",
+    "coordinates": {
+      "latitude": "54.8573563",
+      "longitude": "57.1439682"
+    }
+  },
+  "China qinghai": {
+    "province": "Qinghai",
+    "coordinates": {
+      "latitude": "35.7452",
+      "longitude": "95.9956"
+    }
+  },
+  "Sweden dalarna": {
+    "province": "Dalarna",
+    "coordinates": {
+      "latitude": "61.0917",
+      "longitude": "14.6664"
+    }
+  },
+  "Bahamas null": {
+    "coordinates": {
+      "latitude": "25.025885",
+      "longitude": "-78.035889"
+    }
+  },
+  "Russia khanty-mansi autonomous okrug": {
+    "province": "Khanty-Mansi Autonomous Okrug",
+    "coordinates": {
+      "latitude": "61.0259025",
+      "longitude": "69.0982628"
+    }
+  },
+  "Sweden sormland": {
+    "province": "Sormland",
+    "coordinates": {
+      "latitude": "59.0336",
+      "longitude": "16.7519"
+    }
+  },
+  "Colombia boyaca": {
+    "province": "Boyaca",
+    "coordinates": {
+      "latitude": "5.4545",
+      "longitude": "-73.362"
+    }
+  },
+  "MS Zaandam null": {
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Sweden varmland": {
+    "province": "Varmland",
+    "coordinates": {
+      "latitude": "59.7294",
+      "longitude": "13.2354"
+    }
+  },
+  "Peru puno": {
+    "province": "Puno",
+    "coordinates": {
+      "latitude": "-14.995826999999998",
+      "longitude": "-69.922726"
+    }
+  },
+  "Chile valparaiso": {
+    "province": "Valparaiso",
+    "coordinates": {
+      "latitude": "-33.0472",
+      "longitude": "-71.6127"
+    }
+  },
+  "Lao People's Democratic Republic null": {
+    "coordinates": {
+      "latitude": "18.0123",
+      "longitude": "102.4891"
+    }
+  },
+  "Lebanon null": {
+    "coordinates": {
+      "latitude": "33.8547",
+      "longitude": "35.8623"
+    }
+  },
+  "US pennsylvania": {
+    "province": "Pennsylvania",
+    "coordinates": {
+      "latitude": "39.87140411",
+      "longitude": "-77.21610347"
+    }
+  },
+  "Mexico chiapas": {
+    "province": "Chiapas",
+    "coordinates": {
+      "latitude": "16.7569",
+      "longitude": "-93.1292"
+    }
+  },
+  "Brazil ceara": {
+    "province": "Ceara",
+    "coordinates": {
+      "latitude": "-5.4984",
+      "longitude": "-39.3206"
+    }
+  },
+  "Japan kochi": {
+    "province": "Kochi",
+    "coordinates": {
+      "latitude": "33.422519",
+      "longitude": "133.367307"
+    }
+  },
+  "Japan fukui": {
+    "province": "Fukui",
+    "coordinates": {
+      "latitude": "35.846614",
+      "longitude": "136.22465400000002"
+    }
+  },
+  "Russia novosibirsk oblast": {
+    "province": "Novosibirsk Oblast",
+    "coordinates": {
+      "latitude": "54.9720169",
+      "longitude": "79.48139240000002"
+    }
+  },
+  "Dominica null": {
+    "coordinates": {
+      "latitude": "15.415",
+      "longitude": "-61.371"
+    }
+  },
+  "UK saint helena, ascension and tristan da cunha": {
+    "province": "Saint Helena, Ascension and Tristan da Cunha",
+    "coordinates": {
+      "latitude": "-7.9467",
+      "longitude": "-14.3559"
+    }
+  },
+  "Russia irkutsk oblast": {
+    "province": "Irkutsk Oblast",
+    "coordinates": {
+      "latitude": "56.6370122",
+      "longitude": "104.719221"
+    }
+  },
+  "Togo null": {
+    "coordinates": {
+      "latitude": "8.6195",
+      "longitude": "0.8248"
+    }
+  },
+  "Italy basilicata": {
+    "province": "Basilicata",
+    "coordinates": {
+      "latitude": "40.63947052",
+      "longitude": "15.80514834"
+    }
+  },
+  "Congo (Brazzaville) null": {
+    "coordinates": {
+      "latitude": "-0.228",
+      "longitude": "15.8277"
+    }
+  },
+  "Russia altai krai": {
+    "province": "Altai Krai",
+    "coordinates": {
+      "latitude": "52.6932243",
+      "longitude": "82.69314240000001"
+    }
+  },
+  "Côte d'Ivoire null": {
+    "coordinates": {
+      "latitude": "7.54",
+      "longitude": "-5.5471"
+    }
+  },
+  "Mexico queretaro": {
+    "province": "Queretaro",
+    "coordinates": {
+      "latitude": "20.5888",
+      "longitude": "-100.3899"
+    }
+  },
+  "Peru pasco": {
+    "province": "Pasco",
+    "coordinates": {
+      "latitude": "-10.39655",
+      "longitude": "-75.307635"
+    }
+  },
+  "Russia zabaykalsky krai": {
+    "province": "Zabaykalsky Krai",
+    "coordinates": {
+      "latitude": "52.248521",
+      "longitude": "115.956325"
+    }
+  },
+  "Bahrain null": {
+    "coordinates": {
+      "latitude": "26.0275",
+      "longitude": "50.55"
+    }
+  },
+  "US minnesota": {
+    "province": "Minnesota",
+    "coordinates": {
+      "latitude": "46.60962049",
+      "longitude": "-93.4116826"
+    }
+  },
+  "Australia queensland": {
+    "province": "Queensland",
+    "coordinates": {
+      "latitude": "-27.4698",
+      "longitude": "153.0251"
+    }
+  },
+  "Canada repatriated travellers": {
+    "province": "Repatriated Travellers",
+    "coordinates": {
+      "latitude": "",
+      "longitude": ""
+    }
+  },
+  "Uruguay null": {
+    "coordinates": {
+      "latitude": "-32.5228",
+      "longitude": "-55.7658"
+    }
+  },
+  "US new jersey": {
+    "province": "New Jersey",
+    "coordinates": {
+      "latitude": "39.47538693",
+      "longitude": "-74.65848483"
+    }
+  },
+  "Mexico baja california sur": {
+    "province": "Baja California Sur",
+    "coordinates": {
+      "latitude": "26.0444",
+      "longitude": "-111.6661"
+    }
+  },
+  "Russia kirov oblast": {
+    "province": "Kirov Oblast",
+    "coordinates": {
+      "latitude": "57.9665589",
+      "longitude": "49.4074599"
+    }
+  },
+  "Italy molise": {
+    "province": "Molise",
+    "coordinates": {
+      "latitude": "41.55774754",
+      "longitude": "14.65916051"
+    }
+  },
+  "Russia tatarstan republic": {
+    "province": "Tatarstan Republic",
+    "coordinates": {
+      "latitude": "55.7648572",
+      "longitude": "52.43104273"
+    }
+  },
+  "Saint Lucia null": {
+    "coordinates": {
+      "latitude": "13.9094",
+      "longitude": "-60.9789"
+    }
+  },
+  "Germany rheinland-pfalz": {
+    "province": "Rheinland-Pfalz",
+    "coordinates": {
+      "latitude": "50.1183",
+      "longitude": "7.309"
+    }
+  },
+  "US rhode island": {
+    "province": "Rhode Island",
+    "coordinates": {
+      "latitude": "41.71018079",
+      "longitude": "-71.28652315"
+    }
+  },
+  "Brazil bahia": {
+    "province": "Bahia",
+    "coordinates": {
+      "latitude": "-12.5797",
+      "longitude": "-41.7007"
+    }
+  },
+  "Argentina null": {
+    "coordinates": {
+      "latitude": "-38.4161",
+      "longitude": "-63.6167"
+    }
+  },
+  "Mexico aguascalientes": {
+    "province": "Aguascalientes",
+    "coordinates": {
+      "latitude": "21.8853",
+      "longitude": "-102.2916"
+    }
+  },
+  "Italy calabria": {
+    "province": "Calabria",
+    "coordinates": {
+      "latitude": "38.90597598",
+      "longitude": "16.59440194"
+    }
+  },
+  "UK falkland islands (malvinas)": {
+    "province": "Falkland Islands (Malvinas)",
+    "coordinates": {
+      "latitude": "-51.7963",
+      "longitude": "-59.5236"
+    }
+  },
+  "Japan nagasaki": {
+    "province": "Nagasaki",
+    "coordinates": {
+      "latitude": "33.235712",
+      "longitude": "129.608033"
+    }
+  },
+  "Sweden kronoberg": {
+    "province": "Kronoberg",
+    "coordinates": {
+      "latitude": "56.7183",
+      "longitude": "14.4115"
+    }
+  },
+  "Mexico baja california": {
+    "province": "Baja California",
+    "coordinates": {
+      "latitude": "30.8406",
+      "longitude": "-115.2838"
+    }
+  },
+  "Peru junin": {
+    "province": "Junin",
+    "coordinates": {
+      "latitude": "-11.541783",
+      "longitude": "-74.876968"
+    }
+  },
+  "Cameroon null": {
+    "coordinates": {
+      "latitude": "3.848",
+      "longitude": "11.5021"
+    }
+  },
+  "Russia tver oblast": {
+    "province": "Tver Oblast",
+    "coordinates": {
+      "latitude": "57.1134475",
+      "longitude": "35.174442799999994"
+    }
+  },
+  "Libyan Arab Jamahiriya null": {
+    "coordinates": {
+      "latitude": "26.3351",
+      "longitude": "17.228331"
+    }
+  },
+  "Russia pskov oblast": {
+    "province": "Pskov Oblast",
+    "coordinates": {
+      "latitude": "57.5358729",
+      "longitude": "28.8586826"
+    }
+  },
+  "US michigan": {
+    "province": "Michigan",
+    "coordinates": {
+      "latitude": "44.6846864",
+      "longitude": "-83.59507875"
+    }
+  },
+  "Canada prince edward island": {
+    "province": "Prince Edward Island",
+    "coordinates": {
+      "latitude": "46.5107",
+      "longitude": "-63.4168"
+    }
+  },
+  "Georgia null": {
+    "coordinates": {
+      "latitude": "42.3154",
+      "longitude": "43.3569"
+    }
+  },
+  "Japan tokyo": {
+    "province": "Tokyo",
+    "coordinates": {
+      "latitude": "35.711343",
+      "longitude": "139.446921"
+    }
+  },
+  "Sao Tome and Principe null": {
+    "coordinates": {
+      "latitude": "0.1864",
+      "longitude": "6.6131"
+    }
+  }
+}
